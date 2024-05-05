@@ -54,27 +54,7 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15188.ts
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 
 
-
 #############################################################    Crime & Mystère      Crime & Mystère     ############################################
-
-#EXTINF:-1 channel-id="pluto-5f914f4b36d67d0007a91a04" tvg-id="5f914f4b36d67d0007a91a04" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" tvg-chno="400" group-title="Crime & Mystère" , Pluto TV Investigation
-https://r.mjh.nz/PlutoTV/5f914f4b36d67d0007a91a04-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f8ed9461b35690007a0bc3a" tvg-id="5f8ed9461b35690007a0bc3a" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ed9461b35690007a0bc3a/colorLogoPNG.png" tvg-chno="405" group-title="Crime & Mystère" , Pluto TV Paranormal
-https://r.mjh.nz/PlutoTV/5f8ed9461b35690007a0bc3a-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63921a3d00c96100082a3cb4" tvg-id="63921a3d00c96100082a3cb4" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/63921a3d00c96100082a3cb4/colorLogoPNG.png" tvg-chno="410" group-title="Crime & Mystère" , Homicide
-https://r.mjh.nz/PlutoTV/63921a3d00c96100082a3cb4-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63921a1bf76e7d0007c998a6" tvg-id="63921a1bf76e7d0007c998a6" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/63921a1bf76e7d0007c998a6/colorLogoPNG.png" tvg-chno="415" group-title="Crime & Mystère" , Enquêtes de Choc
-https://r.mjh.nz/PlutoTV/63921a1bf76e7d0007c998a6-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f8edb6df1ebb800072edf10" tvg-id="5f8edb6df1ebb800072edf10" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8edb6df1ebb800072edf10/colorLogoPNG.png" tvg-chno="420" group-title="Crime & Mystère" , Les Nouveaux Detectives
-https://r.mjh.nz/PlutoTV/5f8edb6df1ebb800072edf10-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f8edad922b10b000753bc37" tvg-id="5f8edad922b10b000753bc37" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8edad922b10b000753bc37/colorLogoPNG-1608307486966.png" tvg-chno="425" group-title="Crime & Mystère" , Dossiers FBI
-https://r.mjh.nz/PlutoTV/5f8edad922b10b000753bc37-alt.m3u8
-
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png" group-title="Crime & Mystère",TMC ENQUÊTE
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9194.ts
@@ -114,6 +94,24 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25254.ts
 
 #EXTINF:-1  channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://i.ibb.co/ChVvjpF/bfmgr.jpg" group-title="Crime & Mystère" ,BFM GRAND REPORTAGES
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
+
+#EXTINF:-1 channel-id="pluto-5f914f4b36d67d0007a91a04" tvg-id="5f914f4b36d67d0007a91a04" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" tvg-chno="400" group-title="Crime & Mystère" , Pluto TV Investigation
+https://r.mjh.nz/PlutoTV/5f914f4b36d67d0007a91a04-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f8ed9461b35690007a0bc3a" tvg-id="5f8ed9461b35690007a0bc3a" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ed9461b35690007a0bc3a/colorLogoPNG.png" tvg-chno="405" group-title="Crime & Mystère" , Pluto TV Paranormal
+https://r.mjh.nz/PlutoTV/5f8ed9461b35690007a0bc3a-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-63921a3d00c96100082a3cb4" tvg-id="63921a3d00c96100082a3cb4" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/63921a3d00c96100082a3cb4/colorLogoPNG.png" tvg-chno="410" group-title="Crime & Mystère" , Homicide
+https://r.mjh.nz/PlutoTV/63921a3d00c96100082a3cb4-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-63921a1bf76e7d0007c998a6" tvg-id="63921a1bf76e7d0007c998a6" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/63921a1bf76e7d0007c998a6/colorLogoPNG.png" tvg-chno="415" group-title="Crime & Mystère" , Enquêtes de Choc
+https://r.mjh.nz/PlutoTV/63921a1bf76e7d0007c998a6-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f8edb6df1ebb800072edf10" tvg-id="5f8edb6df1ebb800072edf10" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8edb6df1ebb800072edf10/colorLogoPNG.png" tvg-chno="420" group-title="Crime & Mystère" , Les Nouveaux Detectives
+https://r.mjh.nz/PlutoTV/5f8edb6df1ebb800072edf10-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f8edad922b10b000753bc37" tvg-id="5f8edad922b10b000753bc37" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8edad922b10b000753bc37/colorLogoPNG-1608307486966.png" tvg-chno="425" group-title="Crime & Mystère" , Dossiers FBI
+https://r.mjh.nz/PlutoTV/5f8edad922b10b000753bc37-alt.m3u8
 
 
 #################################################     Documentaire + Lifestyle           Documentaire + Lifestyle           ##########################################
@@ -160,16 +158,12 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9560.ts
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno=""  group-title="DISCV. NATGEO PLANETE+",DISCOVERY FAMILY
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51144.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",DISCOVERY FAMILY HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/30662.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",DISCOVERY FAMILY FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51143.ts
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",|FR| DISCOVERY SCIENCE
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",DISCOVERY SCIENCE
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9291.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",|FR.RP| DISCOVERY SCIENCE HD
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",DISCOVERY SCIENCE HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15179.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",|FR| DISCOVERY SCIENCE FHD
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",DISCOVERY SCIENCE FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9558.ts
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.nationalgeographic.fr/images/logo.png" group-title="DISCV. NATGEO PLANETE+",NATIONAL GEOGRAPHIC
@@ -203,36 +197,37 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15213.ts
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://img.over-blog-kiwi.com/0/95/30/84/20170429/ob_a01d2b_capture.JPG" group-title="DISCV. NATGEO PLANETE+",ANIMAUX FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9591.ts
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",USHUAIA
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ushuaia_tv_logo_V2-RVB.jpg/1200px-Ushuaia_tv_logo_V2-RVB.jpg" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",USHUAIA
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9205.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",USHUAIA HD
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ushuaia_tv_logo_V2-RVB.jpg/1200px-Ushuaia_tv_logo_V2-RVB.jpg" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",USHUAIA HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15115.ts
 
-
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png" group-title="DISCV. NATGEO PLANETE+",RMC STORY
+https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",RMC DECOUVERTE 
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15131.ts
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",RMC DECOUVERTE FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9508.ts
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",TREK
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://www.salt.ch/sites/default/files/tvchannels/Trek_logo_0.png" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",TREK
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9193.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",REK HD
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://www.salt.ch/sites/default/files/tvchannels/Trek_logo_0.png" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",REK HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15117.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",TREK FHD
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://www.salt.ch/sites/default/files/tvchannels/Trek_logo_0.png" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",TREK FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9492.ts
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",CHASSE & PECHE
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://peche-chasse.fr/wp-content/uploads/2023/05/Logo-PECHE-CHASSE-512-512.png" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",CHASSE & PECHE
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15189.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+", CHASSE & PECHE HD
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://peche-chasse.fr/wp-content/uploads/2023/05/Logo-PECHE-CHASSE-512-512.png" tvg-chno="" group-title="DISCV. NATGEO PLANETE+", CHASSE & PECHE HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9314.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+" ,CHASSE & PECHE FHD
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://peche-chasse.fr/wp-content/uploads/2023/05/Logo-PECHE-CHASSE-512-512.png" tvg-chno="" group-title="DISCV. NATGEO PLANETE+" ,CHASSE & PECHE FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51149.ts
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",SEASON
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Seasons_logo.png/640px-Seasons_logo.png" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",SEASON
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9227.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",SEASON HD
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Seasons_logo.png/640px-Seasons_logo.png" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",SEASON HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15128.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",SEASON FHD
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Seasons_logo.png/640px-Seasons_logo.png" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",SEASON FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9503.ts
  
 #EXTINF:-1channel-id="" tvg-id="" tvg-name=""tvg-chno=""  tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2014/07/14121638/TV8_Mont-blanc_logo.png" group-title="DISCV. NATGEO PLANETE+",MONT BLANC TV
