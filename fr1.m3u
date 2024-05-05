@@ -43,8 +43,6 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25170.ts
  
 #EXTINF:-1 channel-id="" tvg-id="6ter.fr" tvg-name="6Ter"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/6ter.png/revision/latest?cb=20121211233128" group-title="TF1",6TER
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9364.ts
-#EXTINF:-1 channel-id="" tvg-id="6ter.fr" tvg-name="6Ter" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/6ter.png/revision/latest?cb=20121211233128" group-title="TF1",6TER ALTER
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15216.ts
  
 #EXTINF:-1 channel-id="" tvg-id="Cherie25.fr" tvg-name="" tvg-logo="https://icon2.cleanpng.com/20181118/tkc/kisspng-logo-television-channel-m6-hogar-tv-attractive-barcelona-armchair-view-larger-fullscre-5bf1085d607bb6.6797960415425229733952.jpg" group-title="TF1",CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
@@ -56,20 +54,17 @@ https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 
 #############################################################    Crime & Mystère      Crime & Mystère     ############################################
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png" group-title="Crime & Mystère",TMC ENQUÊTE
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png" group-title="Crime & Mystère",TMC
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9194.ts
 
-#EXTINF:-1 tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png" group-title="Crime & Mystère",TMC ENQUÊTE FHD
+#EXTINF:-1 tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/1200px-TMC_logo.svg.png" group-title="Crime & Mystère",TMC FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15119.ts
  
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name=""   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal%2B_Docs.png" group-title="Crime & Mystère",CANAL+ DOCS
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/142288.ts
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name=""   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/PLAN%C3%88TE%2B_A%26E.png" group-title="Crime & Mystère",PLANETE A&E HD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25240.ts
-
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/PLAN%C3%88TE%2B_A%26E.png" group-title="Crime & Mystère",PLANETE A&E HD ALTER
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9235.tsCrime & Mystère
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9235.ts
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/PlanetePlus_2011.svg/1200px-PlanetePlus_2011.svg.png"  group-title="Crime & Mystère", PLANETE+ HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15135.ts
@@ -95,50 +90,23 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25254.ts
 #EXTINF:-1  channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://i.ibb.co/ChVvjpF/bfmgr.jpg" group-title="Crime & Mystère" ,BFM GRAND REPORTAGES
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
 
-#EXTINF:-1 channel-id="pluto-5f914f4b36d67d0007a91a04" tvg-id="5f914f4b36d67d0007a91a04" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" tvg-chno="400" group-title="Crime & Mystère" , Pluto TV Investigation
+#EXTINF:-1 channel-id="pluto-5f914f4b36d67d0007a91a04" tvg-id="5f914f4b36d67d0007a91a04" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" tvg-chno="400" group-title="Crime & Mystère" , Pluto TV Investigation
 https://r.mjh.nz/PlutoTV/5f914f4b36d67d0007a91a04-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f8ed9461b35690007a0bc3a" tvg-id="5f8ed9461b35690007a0bc3a" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ed9461b35690007a0bc3a/colorLogoPNG.png" tvg-chno="405" group-title="Crime & Mystère" , Pluto TV Paranormal
+#EXTINF:-1 channel-id="pluto-5f8ed9461b35690007a0bc3a" tvg-id="5f8ed9461b35690007a0bc3a" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5adf96e3e738977e2c31cb04/featuredImage.jpg" tvg-chno="405" group-title="Crime & Mystère" , Pluto TV Paranormal
 https://r.mjh.nz/PlutoTV/5f8ed9461b35690007a0bc3a-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-63921a3d00c96100082a3cb4" tvg-id="63921a3d00c96100082a3cb4" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/63921a3d00c96100082a3cb4/colorLogoPNG.png" tvg-chno="410" group-title="Crime & Mystère" , Homicide
+#EXTINF:-1 channel-id="pluto-63921a3d00c96100082a3cb4" tvg-id="63921a3d00c96100082a3cb4" tvg-name=""  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxFX3wFKWaEkh9ORfeExpXk8ft_gu2D0-6r0m9SnPOyA&s" tvg-chno="410" group-title="Crime & Mystère" , Homicide
 https://r.mjh.nz/PlutoTV/63921a3d00c96100082a3cb4-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-63921a1bf76e7d0007c998a6" tvg-id="63921a1bf76e7d0007c998a6" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/63921a1bf76e7d0007c998a6/colorLogoPNG.png" tvg-chno="415" group-title="Crime & Mystère" , Enquêtes de Choc
 https://r.mjh.nz/PlutoTV/63921a1bf76e7d0007c998a6-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f8edb6df1ebb800072edf10" tvg-id="5f8edb6df1ebb800072edf10" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8edb6df1ebb800072edf10/colorLogoPNG.png" tvg-chno="420" group-title="Crime & Mystère" , Les Nouveaux Detectives
+#EXTINF:-1 channel-id="pluto-5f8edb6df1ebb800072edf10" tvg-id="5f8edb6df1ebb800072edf10" tvg-name=""  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfxMAUzZQlhCfOMJCjuSV0RfydtbaPYTtvuEZuS9mkxg&s" tvg-chno="420" group-title="Crime & Mystère" , Les Nouveaux Detectives
 https://r.mjh.nz/PlutoTV/5f8edb6df1ebb800072edf10-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f8edad922b10b000753bc37" tvg-id="5f8edad922b10b000753bc37" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8edad922b10b000753bc37/colorLogoPNG-1608307486966.png" tvg-chno="425" group-title="Crime & Mystère" , Dossiers FBI
 https://r.mjh.nz/PlutoTV/5f8edad922b10b000753bc37-alt.m3u8
-
-
-#################################################     Documentaire + Lifestyle           Documentaire + Lifestyle           ##########################################
-
-#EXTINF:-1 channel-id="pluto-63b579961bdba100071214cb" tvg-id="63b579961bdba100071214cb" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/63b579961bdba100071214cb/colorLogoPNG.png" tvg-chno="600" group-title="Documentaire + Lifestyle" , C'est pas sorcier
-https://r.mjh.nz/PlutoTV/63b579961bdba100071214cb-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63b578b524f0cf00072f2a52" tvg-id="63b578b524f0cf00072f2a52" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/colorLogoPNG.png" tvg-chno="605" group-title="Documentaire + Lifestyle" , Echappées Belles & Co
-https://r.mjh.nz/PlutoTV/63b578b524f0cf00072f2a52-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-611e771e2f5f180007002224" tvg-id="611e771e2f5f180007002224" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" tvg-chno="610" group-title="Documentaire + Lifestyle" , Pluto TV Histoire
-https://r.mjh.nz/PlutoTV/611e771e2f5f180007002224-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-611e7811eb9daf000764cbfd" tvg-id="611e7811eb9daf000764cbfd" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" tvg-chno="615" group-title="Documentaire + Lifestyle" , Pluto TV Aventure
-https://r.mjh.nz/PlutoTV/611e7811eb9daf000764cbfd-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60925a44f0350600075a1fdc" tvg-id="60925a44f0350600075a1fdc" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" tvg-chno="620" group-title="Documentaire + Lifestyle" , Pluto TV Animaux
-https://r.mjh.nz/PlutoTV/60925a44f0350600075a1fdc-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f8ed48146ba9e00078424b6" tvg-id="5f8ed48146ba9e00078424b6" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png" tvg-chno="625" group-title="Documentaire + Lifestyle" , Pluto TV Cuisine
-https://r.mjh.nz/PlutoTV/5f8ed48146ba9e00078424b6-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-61fc0df14159c40007250432" tvg-id="61fc0df14159c40007250432" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/61fc0df14159c40007250432/colorLogoPNG.png" tvg-chno="630" group-title="Documentaire + Lifestyle" , Nature Time
-https://r.mjh.nz/PlutoTV/61fc0df14159c40007250432-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f8ed3892ed7bb000741a1d2" tvg-id="5f8ed3892ed7bb000741a1d2" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png" tvg-chno="635" group-title="Documentaire + Lifestyle" , Pluto TV Inside
-https://r.mjh.nz/PlutoTV/5f8ed3892ed7bb000741a1d2-alt.m3u8
 
 
 ############################################     DISCV. NATGEO PLANETE+
@@ -156,15 +124,13 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15180.ts
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/05/discoverychannel2.png" group-title="DISCV. NATGEO PLANETE+",DISCOVERY FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9560.ts
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno=""  group-title="DISCV. NATGEO PLANETE+",DISCOVERY FAMILY
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://w7.pngwing.com/pngs/832/157/png-transparent-discovery-family-television-channel-television-show-logo-others-miscellaneous-television-text.png" group-title="DISCV. NATGEO PLANETE+",DISCOVERY FAMILY
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51144.ts
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",DISCOVERY SCIENCE
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/2560px-TLC_Logo_Germany.svg.png" group-title="DISCV. NATGEO PLANETE+",TLC
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9291.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",DISCOVERY SCIENCE HD
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/TLC_Logo_Germany.svg/2560px-TLC_Logo_Germany.svg.png" group-title="DISCV. NATGEO PLANETE+",TLC HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15179.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",DISCOVERY SCIENCE FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9558.ts
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://www.nationalgeographic.fr/images/logo.png" group-title="DISCV. NATGEO PLANETE+",NATIONAL GEOGRAPHIC
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9368.ts
@@ -202,11 +168,11 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9205.ts
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Ushuaia_tv_logo_V2-RVB.jpg/1200px-Ushuaia_tv_logo_V2-RVB.jpg" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",USHUAIA HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15115.ts
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/fdYg3Lz/rmcstory.png" group-title="DISCV. NATGEO PLANETE+",RMC STORY
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/800px-RMC_Story_logo_2018.svg.png" group-title="DISCV. NATGEO PLANETE+",RMC STORY
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",RMC DECOUVERTE 
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/2560px-RMC_D%C3%A9couverte_logo_2017.svg.png" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",RMC DECOUVERTE 
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15131.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",RMC DECOUVERTE FHD
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/2560px-RMC_D%C3%A9couverte_logo_2017.svg.png" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",RMC DECOUVERTE FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9508.ts
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://www.salt.ch/sites/default/files/tvchannels/Trek_logo_0.png" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",TREK
@@ -237,7 +203,6 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/126662.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Cinema" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt5ef435d93851f6d2/5edfe58ec4dd88332f266863/Cinema.jpg" group-title="Cinéma",SKY CINEMA
 https://i.mjh.nz/SamsungTVPlus/GBBD3100006XM.m3u8
-
 
 ################################################################   Cinéma   Cinéma     Cinéma      Cinéma     #############################################
 
@@ -314,7 +279,7 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9328.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15192.ts
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/C%2B_S%C3%A9ries.png" group-title="Cinéma",CANAL SERIE FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9578.ts
- 
+
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/ad/Cine_Cinema_Emotion.jpg" group-title="Cinéma",CINE EMOTION
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9309.ts
@@ -330,19 +295,15 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9306.ts
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Cine_Cinema_Famiz_logo_2004.svg/1200px-Cine_Cinema_Famiz_logo_2004.svg.png" group-title="Cinéma",CINE FAMIZ FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9567.ts
  
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="Cinéma",CINE FRISSON
+#EXTINF:-1 channel-id="" tvg-id="cine.plus.frisson.fr" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="Cinéma",CINE FRISSON
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9304.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="Cinéma",CINE FRISSON HD
+#EXTINF:-1 channel-id="" tvg-id="cine.plus.frisson.fr" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="Cinéma",CINE FRISSON HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15185.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="Cinéma",CINE FRISSON FHD
+#EXTINF:-1 channel-id="" tvg-id="cine.plus.frisson.fr" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="Cinéma",CINE FRISSON FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9303.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-id="cine.plus.frisson.fr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR087TF1.png" group-title="Cinéma",CINE+ FRISSON FHD
+#EXTINF:-1 channel-id="" tvg-id="cine.plus.frisson.fr" tvg-name="" tvg-chno="" tvg-id="cine.plus.frisson.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="Cinéma",CINE+ FRISSON FHD
 http://vo01.mohdtv.com:8880/ALLChannels24CE331AB6C8/51077740/2779
  
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Polar%2B_%28Logo%29.png/1200px-Polar%2B_%28Logo%29.png" group-title="Cinéma",POLAR + HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9564.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Polar%2B_%28Logo%29.png/1200px-Polar%2B_%28Logo%29.png" group-title="Cinéma",POLAR +
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9564.ts
  
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://vignette.wikia.nocookie.net/logo-chaines/images/f/f3/Cine_Cinema_Premier_(2002-2008).png/revision/latest?cb=20190722135754&path-prefix=fr" group-title="Cinéma",CINE PREMIER
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9300.ts
@@ -357,9 +318,6 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9356.ts
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Action_France_%282000%29.svg/1280px-Action_France_%282000%29.svg.png" group-title="Cinéma",ACTION HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15214.ts
-
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/6b/Action_France_%282000%29.svg/1280px-Action_France_%282000%29.svg.png" group-title="Cinéma",ACTION FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9592.ts
  
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Tmc1.png" group-title="Cinéma",TMC+1 HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9494.ts
@@ -374,7 +332,35 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15138.ts
  
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno=""  tvg-logo="https://seeklogo.com/images/C/canal-series-logo-D195AD4A74-seeklogo.com.png"  group-title="Cinéma",CANAL+ SERIES FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51162.ts
- 
+
+
+#################################################     Documentaire + Lifestyle           Documentaire + Lifestyle           ##########################################
+
+#EXTINF:-1 channel-id="pluto-63b579961bdba100071214cb" tvg-id="63b579961bdba100071214cb" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/63b579961bdba100071214cb/colorLogoPNG.png" tvg-chno="600" group-title="Documentaire + Lifestyle" , C'est pas sorcier
+https://r.mjh.nz/PlutoTV/63b579961bdba100071214cb-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-63b578b524f0cf00072f2a52" tvg-id="63b578b524f0cf00072f2a52" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/colorLogoPNG.png" tvg-chno="605" group-title="Documentaire + Lifestyle" , Echappées Belles & Co
+https://r.mjh.nz/PlutoTV/63b578b524f0cf00072f2a52-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-611e771e2f5f180007002224" tvg-id="611e771e2f5f180007002224" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Toute_une_histoire..._%28France_2%29.png" tvg-chno="610" group-title="Documentaire + Lifestyle" , Pluto TV Histoire
+https://r.mjh.nz/PlutoTV/611e771e2f5f180007002224-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-611e7811eb9daf000764cbfd" tvg-id="611e7811eb9daf000764cbfd" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" tvg-chno="615" group-title="Documentaire + Lifestyle" , Pluto TV Aventure
+https://r.mjh.nz/PlutoTV/611e7811eb9daf000764cbfd-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-60925a44f0350600075a1fdc" tvg-id="60925a44f0350600075a1fdc" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" tvg-chno="620" group-title="Documentaire + Lifestyle" , Pluto TV Animaux
+https://r.mjh.nz/PlutoTV/60925a44f0350600075a1fdc-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f8ed48146ba9e00078424b6" tvg-id="5f8ed48146ba9e00078424b6" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png" tvg-chno="625" group-title="Documentaire + Lifestyle" , Pluto TV Cuisine
+https://r.mjh.nz/PlutoTV/5f8ed48146ba9e00078424b6-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-61fc0df14159c40007250432" tvg-id="61fc0df14159c40007250432" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/61fc0df14159c40007250432/colorLogoPNG.png" tvg-chno="630" group-title="Documentaire + Lifestyle" , Nature Time
+https://r.mjh.nz/PlutoTV/61fc0df14159c40007250432-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f8ed3892ed7bb000741a1d2" tvg-id="5f8ed3892ed7bb000741a1d2" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png" tvg-chno="635" group-title="Documentaire + Lifestyle" , Pluto TV Inside
+https://r.mjh.nz/PlutoTV/5f8ed3892ed7bb000741a1d2-alt.m3u8
+
+
 
 ####################### CUISINE  ########################################
  
@@ -396,7 +382,7 @@ https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://i.ibb.co/tYqGGQp/travelxp.jpg" group-title="Divertissement",TRAVEL XP
 https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
 
-#EXTINF:-1 channel-id="pluto-64bab8ba5dc1660008969b5a" tvg-id="64bab8ba5dc1660008969b5a" tvg-name="Adjugé, vendu !"  tvg-logo="https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/colorLogoPNG.png" tvg-chno="801" group-title="Divertissement" , Adjugé, vendu !
+#EXTINF:-1 channel-id="pluto-64bab8ba5dc1660008969b5a" tvg-id="64bab8ba5dc1660008969b5a" tvg-name="Adjugé, vendu!"  tvg-logo="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=1600" tvg-chno="801" group-title="Divertissement" , Adjugé, vendu!
 https://r.mjh.nz/PlutoTV/64bab8ba5dc1660008969b5a-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-62f3e6aebcdda4000754fa47" tvg-id="62f3e6aebcdda4000754fa47" tvg-name="Toute une histoire"  tvg-logo="https://images.pluto.tv/channels/62f3e6aebcdda4000754fa47/colorLogoPNG.png" tvg-chno="805" group-title="Divertissement" , Toute une histoire
@@ -411,7 +397,7 @@ https://r.mjh.nz/PlutoTV/643531ba82a18e0008a4d57c-alt.m3u8
 #EXTINF:-1 channel-id="pluto-64353456af2bd900088c1a1c" tvg-id="64353456af2bd900088c1a1c" tvg-name="Les 30 Histoires"  tvg-logo="https://images.pluto.tv/channels/64353456af2bd900088c1a1c/colorLogoPNG.png" tvg-chno="820" group-title="Divertissement" , Les 30 Histoires
 https://r.mjh.nz/PlutoTV/64353456af2bd900088c1a1c-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-62f215f41afad500077e2ef1" tvg-id="62f215f41afad500077e2ef1" tvg-name="Masterchef"  tvg-logo="https://images.pluto.tv/channels/62f215f41afad500077e2ef1/colorLogoPNG.png" tvg-chno="825" group-title="Divertissement" , Masterchef
+#EXTINF:-1 channel-id="pluto-62f215f41afad500077e2ef1" tvg-id="62f215f41afad500077e2ef1" tvg-name="Masterchef"  tvg-logo="https://e7.pngegg.com/pngimages/260/417/png-clipart-masterchef-television-show-cooking-endemol-shine-group-view-master-television-text.png" tvg-chno="825" group-title="Divertissement" , Masterchef
 https://r.mjh.nz/PlutoTV/62f215f41afad500077e2ef1-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f92b5ba040eaa0007074d0a" tvg-id="5f92b5ba040eaa0007074d0a" tvg-name="BET CLASSICS Pluto TV"  tvg-logo="https://images.pluto.tv/channels/5f92b5ba040eaa0007074d0a/colorLogoPNG.png" tvg-chno="830" group-title="Divertissement" , BET CLASSICS Pluto TV
