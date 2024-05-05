@@ -6,8 +6,6 @@
  
 #EXTINF:-1 channel-id="" tvg-id="TF1.fr" tvg-name="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/tf1-logo.png" group-title="TF1",TF1 4k HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9211.ts
-#EXTINF:-1 channel-id="" tvg-id="TF1.fr" tvg-name="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/tf1-logo.png" group-title="TF1",TF1 4k ALTER
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25166.ts
 #EXTINF:-1 channel-id="" tvg-id="TF1.fr" tvg-name="" tvg-logo="https://iconape.com/wp-content/png_logo_vector/tf1-logo.png" group-title="TF1",TF1 FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9210.ts
 
@@ -21,12 +19,12 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51148.ts
 #EXTINF:-1 channel-id="" tvg-id="TF1SeriesFilms.fr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_TF1_S%C3%A9ries_Films_2018.jpg" group-title="TF1",TF1 SÉRIES ET fILMS
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51169.ts
  
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="TF1", Paris PREMIÈRE
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name="TV Breizh" tvg-logo="https://i.imgur.com/ily4bEm.png" group-title="TF1", Paris PREMIÈRE
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51129.ts
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Breizh_tv_logo_V2-RVB.jpg" group-title="TF1", TV BREIZH
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name="TV Breizh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Breizh_tv_logo_V2-RVB.jpg" group-title="TF1", TV Breizh
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9206.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Breizh_tv_logo_V2-RVB.jpg" group-title="TF1", TV BREIZH ALTER
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Breizh_tv_logo_V2-RVB.jpg" group-title="TF1", TV Breizh ALTER
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9491.ts
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_TFX_2018.jpg" group-title="TF1",TFX
@@ -43,22 +41,22 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9276.ts
 #EXTINF:-1 channel-id="" tvg-id="France5.fr" tvg-name="France 5" tvg-logo="https://iconape.com/wp-content/png_logo_vector/france-5-logo.png" group-title="TF1",FRANCE5
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25170.ts
  
-#EXTINF:-1 channel-id="" tvg-id="6ter.fr" tvg-name=""  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/6ter.png/revision/latest?cb=20121211233128" group-title="TF1",6TER
+#EXTINF:-1 channel-id="" tvg-id="6ter.fr" tvg-name="6Ter"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/6ter.png/revision/latest?cb=20121211233128" group-title="TF1",6TER
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9364.ts
-#EXTINF:-1 channel-id="" tvg-id="6ter.fr" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/6ter.png/revision/latest?cb=20121211233128" group-title="TF1",6TER ALTER
+#EXTINF:-1 channel-id="" tvg-id="6ter.fr" tvg-name="6Ter" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/6ter.png/revision/latest?cb=20121211233128" group-title="TF1",6TER ALTER
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15216.ts
  
 #EXTINF:-1 channel-id="" tvg-id="Cherie25.fr" tvg-name="" tvg-logo="https://icon2.cleanpng.com/20181118/tkc/kisspng-logo-television-channel-m6-hogar-tv-attractive-barcelona-armchair-view-larger-fullscre-5bf1085d607bb6.6797960415425229733952.jpg" group-title="TF1",CHÉRIE 25
 https://cherie25.nrjaudio.fm/hls/live/2038375/c25/FHD.m3u8
 #EXTINF:-1 channel-id="" tvg-id="Cherie25.fr" tvg-name="" tvg-logo="https://icon2.cleanpng.com/20181118/tkc/kisspng-logo-television-channel-m6-hogar-tv-attractive-barcelona-armchair-view-larger-fullscre-5bf1085d607bb6.6797960415425229733952.jpg" group-title="TF1",CHÉRIE 25 ALTER
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15188.ts
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-id="LeFigaroTVIledeFrance.fr" tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="TF1",Le Figaro TV Ile-de-France
+#EXTINF:-1 channel-id="" tvg-name="" tvg-id="LeFigaroTVIledeFrance.fr" tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="TF1",Le Figaro TV Ile-de-France
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 
 
 ####################################  SKY CINEMA ###########################
 
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR013BeinSport7Max.png" group-title="Cinéma",SKY CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt5ef435d93851f6d2/5edfe58ec4dd88332f266863/Cinema.jpg" group-title="Cinéma",SKY CINEMA
 https://i.mjh.nz/SamsungTVPlus/GBBD3100006XM.m3u8
 
 
@@ -172,9 +170,9 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9303.ts
 #EXTINF:-1 tvg-id="cine.plus.frisson.fr" tvg-logo="http://www.tvboxgroup.com/iptv/logo/FR/FR087TF1.png" group-title="FR Cinema",CINE+ FRISSON FHD
 http://vo01.mohdtv.com:8880/ALLChannels24CE331AB6C8/51077740/2779
  
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVfWbTPZs0jQakqLrAtTYAKYSce3fxxbQ0sxNs3Zx&s" group-title="Cinéma",POLAR + HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Polar%2B_%28Logo%29.png/1200px-Polar%2B_%28Logo%29.png" group-title="Cinéma",POLAR + HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9564.ts
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvVfWbTPZs0jQakqLrAtTYAKYSce3fxxbQ0sxNs3Zx&s" group-title="Cinéma",POLAR+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Polar%2B_%28Logo%29.png/1200px-Polar%2B_%28Logo%29.png" group-title="Cinéma",POLAR+
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9564.ts
  
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logo-chaines/images/f/f3/Cine_Cinema_Premier_(2002-2008).png/revision/latest?cb=20190722135754&path-prefix=fr" group-title="Cinéma",CINE PREMIER
@@ -207,7 +205,7 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9514.ts
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/707/232/png-transparent-paramount-logo-brand-park-font-park-text-photography-logo.png" group-title="Cinéma",PARAMOUNT NETWORK HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15138.ts
  
-#EXTINF:-1 group-title="Cinéma",CANAL+ SERIES FHD HEVC
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/C/canal-series-logo-D195AD4A74-seeklogo.com.png"  group-title="Cinéma",CANAL+ SERIES FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51162.ts
  
 
@@ -301,7 +299,6 @@ https://r.mjh.nz/PlutoTV/5f8ed3892ed7bb000741a1d2-alt.m3u8
 #EXTINF:-1 channel-id="pluto-62f21f7e0f61420008273b9e" tvg-id="62f21f7e0f61420008273b9e" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/62f21f7e0f61420008273b9e/colorLogoPNG.png" tvg-chno="645" group-title="Documentaire + Lifestyle" , Wellbeing TV
 https://r.mjh.nz/PlutoTV/62f21f7e0f61420008273b9e-alt.m3u8
 
-
  
 ####################### CUISINE  ########################################
  
@@ -313,7 +310,6 @@ http://switchtv.zapto.org:25461/9WDt8TLrJ9/wSqEycpeJu/29141
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="CUISINE",Bon appétit (1080p)
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-
 
 
 ################################       Divertissement           Divertissement      ######################################################
@@ -376,7 +372,6 @@ https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u
 https://hls.savoir.media/live/stream.m3u8
 
 
-
 ########################################################    News & Info        News & Info        News & Info       #####################################
 
 #EXTINF:-1 channel-id="pluto-60d35bcaf1ff4a00078af0a6" tvg-id="60d35bcaf1ff4a00078af0a6"  tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png" tvg-chno="1125" group-title="News & Info" , Euronews
@@ -412,7 +407,6 @@ https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 
 
 
-
 #####################################   Nouveau sur Pluto TV    ###################################
 
 #EXTINF:-1 channel-id="pluto-61f93af0b253440007c54ad8" tvg-id="61f93af0b253440007c54ad8" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/61f93af0b253440007c54ad8/colorLogoPNG.png" tvg-chno="31" group-title="Nouveau sur Pluto TV" , Pluto TV Star Trek
@@ -430,7 +424,6 @@ https://r.mjh.nz/PlutoTV/652d0b756208700008d758ad-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-65f96c0c2873090008d356d1" tvg-id="65f96c0c2873090008d356d1" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/65f96c0c2873090008d356d1/colorLogoPNG.png" tvg-chno="36" group-title="Nouveau sur Pluto TV" , Realmadrid TV
 https://r.mjh.nz/PlutoTV/65f96c0c2873090008d356d1-alt.m3u8
-
 
 
 ##############################################    Séries Internationales   #################################
@@ -514,11 +507,6 @@ https://r.mjh.nz/PlutoTV/60afb203ec391c00070ea1bf-alt.m3u8
 https://r.mjh.nz/PlutoTV/60549e98061b5f000776866a-alt.m3u8
 
 
-
-
-
-
-
 #################################################################   TV Réalité         TV Réalité        ###############################################################
 
 #EXTINF:-1 channel-id="pluto-5f8eb66537867f0007146953" tvg-id="5f8eb66537867f0007146953" tvg-name="CATFISH TV"  tvg-logo="https://images.pluto.tv/channels/5f8eb66537867f0007146953/colorLogoPNG.png" tvg-chno="700" group-title="TV Réalité" , CATFISH TV
@@ -544,10 +532,5 @@ https://r.mjh.nz/PlutoTV/6192416c06d23b0007379766-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-602cf8963b4bc90007454541" tvg-id="602cf8963b4bc90007454541" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/602cf8963b4bc90007454541/colorLogoPNG.png" tvg-chno="735" group-title="TV Réalité" , CRIBS : MAISONS DE STAR
 https://r.mjh.nz/PlutoTV/602cf8963b4bc90007454541-alt.m3u8
-
-
-
-
-
 
 
