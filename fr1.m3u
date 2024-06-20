@@ -31,7 +31,10 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9491.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/50639.ts
 #EXTINF:-1 channel-id="" tvg-id="TFX.fr" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_TFX_2018.jpg" group-title="TF1",TFX
 http://op.web24.live:8080/sw-apT-@catalinacommunity/CMWoGGqCuH/37857
- 
+
+
+#EXTINF:-1 tvg-name=" " tvg-logo="https://upload.wikimedia.org/wikipedia/fr/b/b0/France_%C3%94_logo_antenne_%282008%29.png" group-title="TF1",France Ô
+http://goldiptvofficiel.tv:25461/Dominique/B8DsYJKBk6jYKEHEIEJVKDBU/14#checkedby:iptvlister.com
 #EXTINF:-1 channel-id="" tvg-id="France2.fr" tvg-name="France 2" tvg-logo="https://iconape.com/wp-content/png_logo_vector/france-2-logo.png" group-title="TF1", FRANCE2 
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr2nv.m3u8
 #EXTINF:-1 channel-id="" tvg-id="France2.fr" tvg-name="France 2" tvg-logo="https://iconape.com/wp-content/png_logo_vector/france-2-logo.png" group-title="TF1", FRANCE2 ALTER
@@ -382,26 +385,8 @@ https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://i.ibb.co/tYqGGQp/travelxp.jpg" group-title="Divertissement",TRAVEL XP
 https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
 
-#EXTINF:-1 channel-id="pluto-64bab8ba5dc1660008969b5a" tvg-id="64bab8ba5dc1660008969b5a" tvg-name="Adjugé, vendu!"  tvg-logo="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&h=900&q=75&w=1600" tvg-chno="801" group-title="Divertissement" , Adjugé, vendu!
-https://r.mjh.nz/PlutoTV/64bab8ba5dc1660008969b5a-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-62f3e6aebcdda4000754fa47" tvg-id="62f3e6aebcdda4000754fa47" tvg-name="Toute une histoire"  tvg-logo="https://images.pluto.tv/channels/62f3e6aebcdda4000754fa47/colorLogoPNG.png" tvg-chno="805" group-title="Divertissement" , Toute une histoire
-https://r.mjh.nz/PlutoTV/62f3e6aebcdda4000754fa47-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-612e044c970e6f00083bcf3b" tvg-id="612e044c970e6f00083bcf3b" tvg-name="Y'a que la vérité qui compte"  tvg-logo="https://images.pluto.tv/channels/612e044c970e6f00083bcf3b/colorLogoPNG.png" tvg-chno="810" group-title="Divertissement" , Y'a que la vérité qui compte
-https://r.mjh.nz/PlutoTV/612e044c970e6f00083bcf3b-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-643531ba82a18e0008a4d57c" tvg-id="643531ba82a18e0008a4d57c" tvg-name="À prendre ou à laisser"  tvg-logo="https://images.pluto.tv/channels/643531ba82a18e0008a4d57c/colorLogoPNG.png" tvg-chno="815" group-title="Divertissement" , À prendre ou à laisser
-https://r.mjh.nz/PlutoTV/643531ba82a18e0008a4d57c-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-64353456af2bd900088c1a1c" tvg-id="64353456af2bd900088c1a1c" tvg-name="Les 30 Histoires"  tvg-logo="https://images.pluto.tv/channels/64353456af2bd900088c1a1c/colorLogoPNG.png" tvg-chno="820" group-title="Divertissement" , Les 30 Histoires
-https://r.mjh.nz/PlutoTV/64353456af2bd900088c1a1c-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-62f215f41afad500077e2ef1" tvg-id="62f215f41afad500077e2ef1" tvg-name="Masterchef"  tvg-logo="https://e7.pngegg.com/pngimages/260/417/png-clipart-masterchef-television-show-cooking-endemol-shine-group-view-master-television-text.png" tvg-chno="825" group-title="Divertissement" , Masterchef
-https://r.mjh.nz/PlutoTV/62f215f41afad500077e2ef1-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f92b5ba040eaa0007074d0a" tvg-id="BETClassicsPlutoTV.fr" tvg-name="BET CLASSICS Pluto TV"  tvg-logo="https://images.pluto.tv/channels/5f92b5ba040eaa0007074d0a/colorLogoPNG.png" tvg-chno="830" group-title="Divertissement" , BET CLASSICS Pluto TV
-https://r.mjh.nz/PlutoTV/5f92b5ba040eaa0007074d0a-alt.m3u8
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/logo-via-occitanie-pays-gardois.jpg" group-title="Divertissement",Viá Occitanie
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/640px-RTS_2_Logo_2023.svg.png" group-title="Divertissement", RTS 2 SWISS
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9506.ts
@@ -468,106 +453,29 @@ https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 
 
 
-#####################################   Nouveau sur Pluto TV    ###################################
+############################################## Internationales   #################################
+#EXTINF:-1 tvg-id="USAJ3400020KC" tvg-logo="http://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" group-title="Internationales",Tiny House Nation | Samsung EUA
+https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8
 
-#EXTINF:-1 channel-id="pluto-61f93af0b253440007c54ad8" tvg-id="61f93af0b253440007c54ad8" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/61f93af0b253440007c54ad8/colorLogoPNG.png" tvg-chno="31" group-title="Nouveau sur Pluto TV" , Pluto TV Star Trek
-https://r.mjh.nz/PlutoTV/61f93af0b253440007c54ad8-alt.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuNkrBM.png" group-title="Celebridades e cultura pop em inglês",Hollywire
+https://hwusassai.bozztv.com/HD3400/HD3400.m3u8
+#EXTINF:-1 tvg-id="5dc0c78281eddb0009a02d5e" tvg-logo="http://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Internationales ",Mixible | EUA E!
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 channel-id="pluto-65cca3e2ec452d0008af3a65" tvg-id="65cca3e2ec452d0008af3a65" tvg-name="Pluto TV Western" tvg-logo="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/colorLogoPNG.png" tvg-chno="32" group-title="Nouveau sur Pluto TV" , Pluto TV Western
-https://r.mjh.nz/PlutoTV/65cca3e2ec452d0008af3a65-alt.m3u8
+#EXTINF:-1 tvg-id="dtv_EPGYoung Hollywood" tvg-logo="https://i.imgur.com/9dp92Cf.png" group-title="Celebridades e cultura pop em inglês",Young Hollywood | Distro TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/young-hollywood/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Young Hollywood" tvg-logo="https://i.imgur.com/9dp92Cf.png" group-title="Celebridades e cultura pop em inglês",Young Hollywood | Rakuten
+https://younghollywood-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="pluto-652d0b9ceb72580008a4ea5b" tvg-id="652d0b9ceb72580008a4ea5b" tvg-name=" Qui veut gagner des millions?" tvg-logo="https://images.pluto.tv/channels/652d0b9ceb72580008a4ea5b/colorLogoPNG.png" tvg-chno="33" group-title="Nouveau sur Pluto TV" , Qui veut gagner des millions?
-https://r.mjh.nz/PlutoTV/652d0b9ceb72580008a4ea5b-alt.m3u8
-
-
-#EXTINF:-1 channel-id="pluto-652d0b756208700008d758ad" tvg-id="652d0b756208700008d758ad" tvg-name="Les Z'amours" tvg-logo="https://images.pluto.tv/channels/652d0b756208700008d758ad/colorLogoPNG.png" tvg-chno="34" group-title="Nouveau sur Pluto TV" , Les Z'amours
-https://r.mjh.nz/PlutoTV/652d0b756208700008d758ad-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-65f96c0c2873090008d356d1" tvg-id="65f96c0c2873090008d356d1" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/65f96c0c2873090008d356d1/colorLogoPNG.png" tvg-chno="36" group-title="Nouveau sur Pluto TV" , Realmadrid TV
-https://r.mjh.nz/PlutoTV/65f96c0c2873090008d356d1-alt.m3u8
-
-
-##############################################    Séries Internationales   #################################
-
-#EXTINF:-1 channel-id="pluto-62f3e4bc08f5ec000744f552" tvg-id="62f3e4bc08f5ec000744f552" tvg-name="Alerte Cobra" tvg-logo="https://images.pluto.tv/channels/62f3e4bc08f5ec000744f552/colorLogoPNG.png" tvg-chno="50" group-title="Séries Internationales" , Alerte Cobra
-https://r.mjh.nz/PlutoTV/62f3e4bc08f5ec000744f552-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60afa749ac7f3200078adb40" tvg-id="60afa749ac7f3200078adb40" tvg-name="Walker Texas Ranger"  tvg-logo="https://images.pluto.tv/channels/60afa749ac7f3200078adb40/colorLogoPNG.png" tvg-chno="55" group-title="Séries Internationales" , Walker Texas Ranger
-https://r.mjh.nz/PlutoTV/60afa749ac7f3200078adb40-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6245ccd0c6cdb800074632e4" tvg-id="6245ccd0c6cdb800074632e4" tvg-name="MacGyver"  tvg-logo="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png" tvg-chno="60" group-title="Séries Internationales" , MacGyver
-https://r.mjh.nz/PlutoTV/6245ccd0c6cdb800074632e4-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60d359c98f262f00070c364e" tvg-id="60d359c98f262f00070c364e" tvg-name="Doctor Who"  tvg-logo="https://images.pluto.tv/channels/60d359c98f262f00070c364e/colorLogoPNG.png" tvg-chno="70" group-title="Séries Internationales" , Doctor Who
-https://r.mjh.nz/PlutoTV/60d359c98f262f00070c364e-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f8ed4dbf6bb0800071ffbcb" tvg-id="5f8ed4dbf6bb0800071ffbcb" tvg-name="Pluto TV Polar"  tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" tvg-chno="80" group-title="Séries Internationales" , Pluto TV Polar
-https://r.mjh.nz/PlutoTV/5f8ed4dbf6bb0800071ffbcb-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f8ed2d1c34c2300073bf02c" tvg-id="5f8ed2d1c34c2300073bf02c" tvg-name="Pluto TV Series"  tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png" tvg-chno="85" group-title="Séries Internationales" , Pluto TV Series
-https://r.mjh.nz/PlutoTV/5f8ed2d1c34c2300073bf02c-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f914f9dccb4de0007df8bc4" tvg-id="5f914f9dccb4de0007df8bc4" tvg-name="Pluto TV Telenovela"  tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png" tvg-chno="90" group-title="Séries Internationales" , Pluto TV Telenovela
-https://r.mjh.nz/PlutoTV/5f914f9dccb4de0007df8bc4-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-625ec7a1c853fd00073b38fd" tvg-id="625ec7a1c853fd00073b38fd" tvg-name="Pluto TV Séries Fantastiques"  tvg-logo="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG.png" tvg-chno="95" group-title="Séries Internationales" , Pluto TV Séries Fantastiques
-https://r.mjh.nz/PlutoTV/625ec7a1c853fd00073b38fd-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f8eb7e3d2ed18000746d09a" tvg-id="5f8eb7e3d2ed18000746d09a" tvg-name="Pluto TV TEEN SERIES"  tvg-logo="https://images.pluto.tv/channels/5f8eb7e3d2ed18000746d09a/colorLogoPNG.png" tvg-chno="100" group-title="Séries Internationales" , Pluto TV TEEN SERIES
-https://r.mjh.nz/PlutoTV/5f8eb7e3d2ed18000746d09a-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6245ceece1977a00079e2fbd" tvg-id="6245ceece1977a00079e2fbd" tvg-name="Melrose Place"  tvg-logo="https://images.pluto.tv/channels/6245ceece1977a00079e2fbd/colorLogoPNG.png" tvg-chno="105" group-title="Séries Internationales" , Melrose Place
-https://r.mjh.nz/PlutoTV/6245ceece1977a00079e2fbd-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-61533b6334ba9b000763d7b1" tvg-id="61533b6334ba9b000763d7b1" tvg-name="Amour, Gloire et Beauté"  tvg-logo="https://images.pluto.tv/channels/61533b6334ba9b000763d7b1/colorLogoPNG.png" tvg-chno="110" group-title="Séries Internationales" , Amour, Gloire et Beauté
-https://r.mjh.nz/PlutoTV/61533b6334ba9b000763d7b1-alt.m3u8
-#EXTINF:-1 channel-id="pluto-61533b6334ba9b000763d7b1" tvg-id="AmourGloireetBeaute.fr" tvg-name="Amour, Gloire et Beauté"  tvg-logo="https://images.pluto.tv/channels/61533b6334ba9b000763d7b1/colorLogoPNG.png" tvg-chno="110" group-title="Séries Internationales" , Amour, Gloire et Beauté
-https://r.mjh.nz/PlutoTV/61533b6334ba9b000763d7b1-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60d35a74c63c3c0008df6a90" tvg-id="60d35a74c63c3c0008df6a90" tvg-name="BBC Drama"   tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG.png" tvg-chno="115" group-title="Séries Internationales" , BBC Drama
+#EXTINF:-1 channel-id="pluto-60d35a74c63c3c0008df6a90" tvg-id="60d35a74c63c3c0008df6a90" tvg-name="BBC Drama"   tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG.png" tvg-chno="115" group-title="Internationales" , BBC Drama
 https://r.mjh.nz/PlutoTV/60d35a74c63c3c0008df6a90-alt.m3u8
+#EXTINF:-1 tvg-id="5ddf901280e3550009139c86" tvg-logo="https://images.pluto.tv/channels/5ddf901280e3550009139c86/colorLogoPNG.png" group-title="Internationales",5 Building Britain | Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="623464d7185bef0007e337c0" tvg-logo="http://images.pluto.tv/channels/623464d7185bef0007e337c0/colorLogoPNG.png" group-title="Internationales",Adventure | Pluto TV Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623464d7185bef0007e337c0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
-####################################################   100% Français   ########################################################
 
-#EXTINF:-1 channel-id="pluto-62f3ece7b09fd6000783bfb9" tvg-id="62f3ece7b09fd6000783bfb9"  tvg-name="" tvg-logo="https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/colorLogoPNG.png" tvg-chno="200" group-title="100% Français" , Un gars, une fille
-https://r.mjh.nz/PlutoTV/62f3ece7b09fd6000783bfb9-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60549d97cd7b090007c73314" tvg-id="60549d97cd7b090007c73314" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/60549d97cd7b090007c73314/colorLogoPNG.png" tvg-chno="205" group-title="100% Français" , Les filles d'à côté
-https://r.mjh.nz/PlutoTV/60549d97cd7b090007c73314-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-604f8de01b479400078fb1e7" tvg-id="604f8de01b479400078fb1e7" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/604f8de01b479400078fb1e7/colorLogoPNG.png" tvg-chno="210" group-title="100% Français" , Hélène et les garçons
-https://r.mjh.nz/PlutoTV/604f8de01b479400078fb1e7-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60549c238c3f21000753d3e0" tvg-id="60549c238c3f21000753d3e0" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/60549c238c3f21000753d3e0/colorLogoPNG.png" tvg-chno="215" group-title="100% Français" , Le miracle de l'amour
-https://r.mjh.nz/PlutoTV/60549c238c3f21000753d3e0-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-6304f2e2eb10450007298023" tvg-id="6304f2e2eb10450007298023"  tvg-name="" tvg-logo="https://images.pluto.tv/channels/6304f2e2eb10450007298023/colorLogoPNG.png" tvg-chno="220" group-title="100% Français" , Un Village Français
-https://r.mjh.nz/PlutoTV/6304f2e2eb10450007298023-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-62f3e0522443200008c567d7" tvg-id="62f3e0522443200008c567d7" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png" tvg-chno="225" group-title="100% Français" , Pluto TV French Collection
-https://r.mjh.nz/PlutoTV/62f3e0522443200008c567d7-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-639b54404cfdf7000729b3c1" tvg-id="639b54404cfdf7000729b3c1" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/colorLogoPNG.png" tvg-chno="226" group-title="100% Français" , INA 70
-https://r.mjh.nz/PlutoTV/639b54404cfdf7000729b3c1-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f8ed6d569d2d4000864a976" tvg-id="5f8ed6d569d2d4000864a976" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/colorLogoPNG.png" tvg-chno="230" group-title="100% Français" , Louis La Brocante
-https://r.mjh.nz/PlutoTV/5f8ed6d569d2d4000864a976-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60afae68a7fc50000737186d" tvg-id="60afae68a7fc50000737186d" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/60afae68a7fc50000737186d/colorLogoPNG.png" tvg-chno="240" group-title="100% Français" , Les Années fac
-https://r.mjh.nz/PlutoTV/60afae68a7fc50000737186d-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-62f3dd1c2f29ce0007e18596" tvg-id="62f3dd1c2f29ce0007e18596" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/62f3dd1c2f29ce0007e18596/colorLogoPNG.png" tvg-chno="245" group-title="100% Français" , Coeur Océan
-https://r.mjh.nz/PlutoTV/62f3dd1c2f29ce0007e18596-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f8ed80fa09f120007c8daa5" tvg-id="5f8ed80fa09f120007c8daa5" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ed80fa09f120007c8daa5/colorLogoPNG.png" tvg-chno="250" group-title="100% Français" , Les Cordier
-https://r.mjh.nz/PlutoTV/5f8ed80fa09f120007c8daa5-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60afb203ec391c00070ea1bf" tvg-id="60afb203ec391c00070ea1bf" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/60afb203ec391c00070ea1bf/colorLogoPNG.png" tvg-chno="265" group-title="100% Français" , Génération Sitcoms
-https://r.mjh.nz/PlutoTV/60afb203ec391c00070ea1bf-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60549e98061b5f000776866a" tvg-id="60549e98061b5f000776866a" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/60549e98061b5f000776866a/colorLogoPNG.png" tvg-chno="270" group-title="100% Français" , Instant Saga
-https://r.mjh.nz/PlutoTV/60549e98061b5f000776866a-alt.m3u8
 
 
 
