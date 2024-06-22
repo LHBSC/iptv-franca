@@ -113,6 +113,21 @@ https://r.mjh.nz/PlutoTV/5f8edad922b10b000753bc37-alt.m3u8
 
 
 ############################################     DISCV. NATGEO PLANETE+
+
+#EXTINF:-1 tvg-id="611e771e2f5f180007002224" tvg-logo="http://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" group-title="DISCV. NATGEO PLANETE+",Histoire | Pluto TV França
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611e771e2f5f180007002224/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="611e771e2f5f180007002224" tvg-logo="http://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" group-title="DISCV. NATGEO PLANETE+",Histoire | Pluto TV França ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611e771e2f5f180007002224/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5f8ed3892ed7bb000741a1d2" tvg-logo="http://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png" group-title="DISCV. NATGEO PLANETE+",Inside | Pluto TV França
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5f8ed3892ed7bb000741a1d2" tvg-logo="http://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png" group-title="DISCV. NATGEO PLANETE+",Inside | Pluto TV França ~ link 2
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+#EXTINF:-1 tvg-id="5a4d35dfa5c02e717a234f86" tvg-logo="http://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="DISCV. NATGEO PLANETE+",History | Documentário Pluto TV EUA
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="5d4af1803e7983b391d73b13" tvg-logo="https://images.pluto.tv/channels/5d4af1803e7983b391d73b13/colorLogoPNG.png" group-title="DISCV. NATGEO PLANETE+",History | Documentário Pluto TV Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af1803e7983b391d73b13/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+
 #EXTINF:-1 channel-id="" tvg-id="DiscoveryChannel.fr" tvg-name="" tvg-chno="" tvg-logo="https://e7.pngegg.com/pngimages/981/711/png-clipart-united-states-investigation-discovery-television-show-discovery-channel-id-television-text.png" group-title="DISCV. NATGEO PLANETE+",DISCOVERY INVESTIGATION
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51141.ts
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://e7.pngegg.com/pngimages/981/711/png-clipart-united-states-investigation-discovery-television-show-discovery-channel-id-television-text.png" group-title="DISCV. NATGEO PLANETE+",DISCOVERY INVESTIGATION HD
@@ -185,12 +200,6 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15117.ts
 #EXTINF:-1 channel-id="Trek.fr" tvg-id="" tvg-name=""  tvg-logo="https://www.salt.ch/sites/default/files/tvchannels/Trek_logo_0.png" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",TREK FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9492.ts
 
-#EXTINF:-1 channel-id="ChassePeche.fr" tvg-id="" tvg-name=""  tvg-logo="https://peche-chasse.fr/wp-content/uploads/2023/05/Logo-PECHE-CHASSE-512-512.png" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",CHASSE & PECHE
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15189.ts
-#EXTINF:-1 channel-id="ChassePeche.fr" tvg-id="" tvg-name=""  tvg-logo="https://peche-chasse.fr/wp-content/uploads/2023/05/Logo-PECHE-CHASSE-512-512.png" tvg-chno="" group-title="DISCV. NATGEO PLANETE+", CHASSE & PECHE HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9314.ts
-#EXTINF:-1 channel-id="ChassePeche.fr" tvg-id="" tvg-name=""  tvg-logo="https://peche-chasse.fr/wp-content/uploads/2023/05/Logo-PECHE-CHASSE-512-512.png" tvg-chno="" group-title="DISCV. NATGEO PLANETE+" ,CHASSE & PECHE FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51149.ts
 
 #EXTINF:-1 channel-id="Seasons.fr" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Seasons_logo.png/640px-Seasons_logo.png" tvg-chno="" group-title="DISCV. NATGEO PLANETE+",SEASONS
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9227.ts
@@ -213,14 +222,8 @@ https://i.mjh.nz/SamsungTVPlus/GBBD3100006XM.m3u8
 #EXTINF:-1 channel-id="pluto-5f8ed1ff5c39700007e2204a" tvg-id="5f8ed1ff5c39700007e2204a" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" tvg-chno="300" group-title="Cinéma" , Pluto TV Action
 https://r.mjh.nz/PlutoTV/5f8ed1ff5c39700007e2204a-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-60c3472a51a2050008dad272" tvg-id="60c3472a51a2050008dad272" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG.png" tvg-chno="305" group-title="Cinéma" , Pluto TV Thrillers
-https://r.mjh.nz/PlutoTV/60c3472a51a2050008dad272-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-60c34592c911890007f29a73" tvg-id="60c34592c911890007f29a73" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" tvg-chno="310" group-title="Cinéma" , Pluto TV Sci-Fi
 https://r.mjh.nz/PlutoTV/60c34592c911890007f29a73-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-62f3e2d000418d00070f7dbc" tvg-id="62f3e2d000418d00070f7dbc" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG.png" tvg-chno="315" group-title="Cinéma" , Pluto TV Ciné d'Asie
-https://r.mjh.nz/PlutoTV/62f3e2d000418d00070f7dbc-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f8ed0f17564a300082b676a" tvg-id="5f8ed0f17564a300082b676a" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG.png" tvg-chno="320" group-title="Cinéma" , Pluto TV Ciné
 https://r.mjh.nz/PlutoTV/5f8ed0f17564a300082b676a-alt.m3u8
@@ -228,20 +231,9 @@ https://r.mjh.nz/PlutoTV/5f8ed0f17564a300082b676a-alt.m3u8
 #EXTINF:-1 channel-id="pluto-60812fc8539963000707d1e1" tvg-id="60812fc8539963000707d1e1" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG.png" tvg-chno="325" group-title="Cinéma" , Pluto TV Romance
 https://r.mjh.nz/PlutoTV/60812fc8539963000707d1e1-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-615c4bdfdd585f000732a22b" tvg-id="615c4bdfdd585f000732a22b" tvg-logo="https://images.pluto.tv/channels/615c4bdfdd585f000732a22b/colorLogoPNG.png" tvg-chno="330" group-title="Cinéma" , Têtu TV
-https://r.mjh.nz/PlutoTV/615c4bdfdd585f000732a22b-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f8ed168f72fcd0007e56269" tvg-id="5f8ed168f72fcd0007e56269" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png" tvg-chno="335" group-title="Cinéma" , Pluto TV Ciné Rétro
-https://r.mjh.nz/PlutoTV/5f8ed168f72fcd0007e56269-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60b4d6c806ad2a00073b3108" tvg-id="60b4d6c806ad2a00073b3108" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/60b4d6c806ad2a00073b3108/colorLogoPNG.png" tvg-chno="340" group-title="Cinéma" , Wild Side TV
-https://r.mjh.nz/PlutoTV/60b4d6c806ad2a00073b3108-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-5f8ece1a89d79800072510e6" tvg-id="5f8ece1a89d79800072510e6" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ece1a89d79800072510e6/colorLogoPNG.png" tvg-chno="345" group-title="Cinéma" , The Asylum
 https://r.mjh.nz/PlutoTV/5f8ece1a89d79800072510e6-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-64c9260ac0222700089ee62b" tvg-id="64c9260ac0222700089ee62b" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/64c9260ac0222700089ee62b/colorLogoPNG.png" tvg-chno="350" group-title="Cinéma" , Family Club
-https://r.mjh.nz/PlutoTV/64c9260ac0222700089ee62b-alt.m3u8
 
 #EXTINF:-1 tvg-id="WarnerTV.fr" tvg-logo="https://medias.unifrance.org/medias/175/93/23983/format_web/warner-bros-france.png" group-title="Cinéma",WARNER
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9267.ts
@@ -269,11 +261,6 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/278398.ts
 
 #EXTINF:-1 channel-id="" tvg-id="CanalPlusGrandEcran.fr" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/d/da/C%2B_Grand_%C3%89cran.png/640px-C%2B_Grand_%C3%89cran.png" group-title="Cinéma",CANAL GRAND ECRAN HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/131807.ts
- 
-#EXTINF:-1 channel-id="" tvg-id="CanalPlusFamily.fr" tvg-name="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/ce/Canal%2B_Family_%282013-.n.v.%29.png/revision/latest?cb=20170928085249" group-title="Cinéma",CANAL FAMILY HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15193.ts
-#EXTINF:-1 channel-id="" tvg-id="CanalPlusFamily.fr" tvg-name="" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/c/ce/Canal%2B_Family_%282013-.n.v.%29.png/revision/latest?cb=20170928085249" group-title="Cinéma",CANAL FAMILY FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9580.ts
 
 #EXTINF:-1 channel-id="" tvg-id="CanalPlusSeries.fr" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/C%2B_S%C3%A9ries.png" group-title="Cinéma",CANAL+ SERIE
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9328.ts
@@ -283,20 +270,12 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15192.ts
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e3/C%2B_S%C3%A9ries.png" group-title="Cinéma",CANAL SERIE FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9578.ts
 
-
 #EXTINF:-1 channel-id="" tvg-id="CinePlusEmotion.fr" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/ad/Cine_Cinema_Emotion.jpg" group-title="Cinéma",CINE EMOTION
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9309.ts
 #EXTINF:-1 channel-id="" tvg-id="CinePlusEmotion.fr" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/ad/Cine_Cinema_Emotion.jpg" group-title="Cinéma",CINE EMOTION HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15186.ts
 #EXTINF:-1 channel-id="" tvg-id="CinePlusEmotion.fr" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/ad/Cine_Cinema_Emotion.jpg" group-title="Cinéma",CINE EMOTION FHD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9568.ts
-
-#EXTINF:-1 channel-id="" tvg-id="CinePlusFamiz.fr" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Cine_Cinema_Famiz_logo_2004.svg/1200px-Cine_Cinema_Famiz_logo_2004.svg.png" group-title="Cinéma",CINE FAMIZ
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9307.ts
-#EXTINF:-1 channel-id="" tvg-id="CinePlusFamiz.fr" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Cine_Cinema_Famiz_logo_2004.svg/1200px-Cine_Cinema_Famiz_logo_2004.svg.png" group-title="Cinéma",CINE FAMIZ HD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9306.ts
-#EXTINF:-1 channel-id="" tvg-id="CinePlusFamiz.fr" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Cine_Cinema_Famiz_logo_2004.svg/1200px-Cine_Cinema_Famiz_logo_2004.svg.png" group-title="Cinéma",CINE FAMIZ FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9567.ts
  
 #EXTINF:-1 channel-id="" tvg-id="cine.plus.frisson.fr" tvg-name="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="Cinéma",CINE FRISSON
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9304.ts
@@ -337,33 +316,6 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15138.ts
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51162.ts
 
 
-#################################################     Documentaire + Lifestyle           Documentaire + Lifestyle           ##########################################
-
-#EXTINF:-1 channel-id="pluto-63b579961bdba100071214cb" tvg-id="63b579961bdba100071214cb" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/63b579961bdba100071214cb/colorLogoPNG.png" tvg-chno="600" group-title="Documentaire + Lifestyle" , C'est pas sorcier
-https://r.mjh.nz/PlutoTV/63b579961bdba100071214cb-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-63b578b524f0cf00072f2a52" tvg-id="63b578b524f0cf00072f2a52" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/colorLogoPNG.png" tvg-chno="605" group-title="Documentaire + Lifestyle" , Echappées Belles & Co
-https://r.mjh.nz/PlutoTV/63b578b524f0cf00072f2a52-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-611e771e2f5f180007002224" tvg-id="611e771e2f5f180007002224" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Toute_une_histoire..._%28France_2%29.png" tvg-chno="610" group-title="Documentaire + Lifestyle" , Pluto TV Histoire
-https://r.mjh.nz/PlutoTV/611e771e2f5f180007002224-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-611e7811eb9daf000764cbfd" tvg-id="611e7811eb9daf000764cbfd" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" tvg-chno="615" group-title="Documentaire + Lifestyle" , Pluto TV Aventure
-https://r.mjh.nz/PlutoTV/611e7811eb9daf000764cbfd-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-60925a44f0350600075a1fdc" tvg-id="60925a44f0350600075a1fdc" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" tvg-chno="620" group-title="Documentaire + Lifestyle" , Pluto TV Animaux
-https://r.mjh.nz/PlutoTV/60925a44f0350600075a1fdc-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f8ed48146ba9e00078424b6" tvg-id="5f8ed48146ba9e00078424b6" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png" tvg-chno="625" group-title="Documentaire + Lifestyle" , Pluto TV Cuisine
-https://r.mjh.nz/PlutoTV/5f8ed48146ba9e00078424b6-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-61fc0df14159c40007250432" tvg-id="61fc0df14159c40007250432" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/61fc0df14159c40007250432/colorLogoPNG.png" tvg-chno="630" group-title="Documentaire + Lifestyle" , Nature Time
-https://r.mjh.nz/PlutoTV/61fc0df14159c40007250432-alt.m3u8
-
-#EXTINF:-1 channel-id="pluto-5f8ed3892ed7bb000741a1d2" tvg-id="5f8ed3892ed7bb000741a1d2" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png" tvg-chno="635" group-title="Documentaire + Lifestyle" , Pluto TV Inside
-https://r.mjh.nz/PlutoTV/5f8ed3892ed7bb000741a1d2-alt.m3u8
-
-
 
 ####################### CUISINE  ########################################
  
@@ -375,6 +327,11 @@ http://switchtv.zapto.org:25461/9WDt8TLrJ9/wSqEycpeJu/29141
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="CUISINE",Bon appétit (1080p)
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 channel-id="pluto-5f8ed48146ba9e00078424b6" tvg-id="5f8ed48146ba9e00078424b6" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png" tvg-chno="625" group-title="CUISINE" , Pluto TV Cuisine
+https://r.mjh.nz/PlutoTV/5f8ed48146ba9e00078424b6-alt.m3u8
+#EXTINF:-1 tvg-id="622b393e32669a00071a6d4c" tvg-logo="http://images.pluto.tv/channels/622b393e32669a00071a6d4c/colorLogoPNG.png" group-title="Culinária em inglês",Great British Menu | Pluto TV Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/622b393e32669a00071a6d4c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 
 
 ################################       Divertissement           Divertissement      ######################################################
@@ -388,35 +345,9 @@ https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/logo-via-occitanie-pays-gardois.jpg" group-title="Divertissement",Viá Occitanie
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RTS_2_Logo_2023.svg/640px-RTS_2_Logo_2023.svg.png" group-title="Divertissement", RTS 2 SWISS
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9506.ts
+
  
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/NRJ12_logo_2015.svg/1200px-NRJ12_logo_2015.svg.png" group-title="Divertissement", NRJ12
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25173.ts
- 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/viamatele2.png" group-title="Divertissement",VIA MATÉLÉ 
-https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://i.ibb.co/tcYgz6h/mensup.png" group-title="Divertissement",MEN'S UP TV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/dmdirect/mensup.m3u8
-
-#EXTINF:-1 channel-id="" tvg-id="TebeoTV.fr" tvg-name=""  tvg-logo="https://i.ibb.co/xmhMMDN/tebeo.png" group-title="Divertissement",TÉBÉO TV
-https://lives.digiteka.com/stream/e0fe6433-554e-4568-9a7e-31969136d8ff/index.m3u8
- 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://i.ibb.co/D7w9h7Q/rt.png" group-title="Divertissement",RT FRANÇAIS
-https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://i.ibb.co/VvMKr5V/wildside.jpg" group-title="Divertissement",WILD SIDE TV
-https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://i.ibb.co/dDbcFbF/lch32.png" group-title="Divertissement",LA CHAÎNE 32
-https://new.cache-stream.workers.dev/stream/UChl0zP89T7yZyEwQkCfmmnQ/live.m3u8
-
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://i.ibb.co/1rDLsMp/puisstv.png" group-title="Divertissement",PUISSANCE TÉLÉVISION
-https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
-
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://i.ibb.co/LzWqD0s/savoirmedia.png" group-title="Divertissement",SAVOIR.MÉDIA
-https://hls.savoir.media/live/stream.m3u8
 
 
 ########################################################    News & Info        News & Info        News & Info       #####################################
@@ -454,17 +385,26 @@ https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
 
 
 ############################################## Internationales   #################################
+
+#EXTINF:-1 tvg-id="625567abd664ea0007605f34" tvg-logo="https://images.pluto.tv/channels/625567abd664ea0007605f34/colorLogoPNG.png" group-title="Internationales",World's Greatest | Pluto TV Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625567abd664ea0007605f34/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="Xplore.cy" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="Internationales",Xplore | legenda em grego | Chipre
+https://web.onair-radio.eu/explorecy/explorecy/master.m3u8
+#EXTINF:-1 tvg-id="6036e6e7ac69c400072afca2" tvg-logo="http://images.pluto.tv/channels/6036e6e7ac69c400072afca2/colorLogoPNG.png" group-title="Internationales",Courtroom | Pluto TV EUA 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6036e6e7ac69c400072afca2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+
 #EXTINF:-1 tvg-id="USAJ3400020KC" tvg-logo="http://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" group-title="Internationales",Tiny House Nation | Samsung EUA
 https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tuNkrBM.png" group-title="Celebridades e cultura pop em inglês",Hollywire
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuNkrBM.png" group-title="Internationales",Hollywire
 https://hwusassai.bozztv.com/HD3400/HD3400.m3u8
-#EXTINF:-1 tvg-id="5dc0c78281eddb0009a02d5e" tvg-logo="http://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Internationales ",Mixible | EUA E!
+#EXTINF:-1 tvg-id="5dc0c78281eddb0009a02d5e" tvg-logo="http://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Internationales ",ET | EUA E!
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 tvg-id="dtv_EPGYoung Hollywood" tvg-logo="https://i.imgur.com/9dp92Cf.png" group-title="Celebridades e cultura pop em inglês",Young Hollywood | Distro TV
+#EXTINF:-1 tvg-id="dtv_EPGYoung Hollywood" tvg-logo="https://i.imgur.com/9dp92Cf.png" group-title="Internationales",Young Hollywood | Distro TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/young-hollywood/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Young Hollywood" tvg-logo="https://i.imgur.com/9dp92Cf.png" group-title="Celebridades e cultura pop em inglês",Young Hollywood | Rakuten
+#EXTINF:-1 tvg-id="" tvg-name="Young Hollywood" tvg-logo="https://i.imgur.com/9dp92Cf.png" group-title="Internationales",Young Hollywood | Rakuten
 https://younghollywood-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 channel-id="pluto-60d35a74c63c3c0008df6a90" tvg-id="60d35a74c63c3c0008df6a90" tvg-name="BBC Drama"   tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG.png" tvg-chno="115" group-title="Internationales" , BBC Drama
