@@ -66,7 +66,7 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15119.ts
 #EXTINF:-1 channel-id="" tvg-id="CanalPlusDocs.fr" tvg-name=""   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal%2B_Docs.png" group-title="Crime & Mystère",CANAL+ DOCS
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/142288.ts
 
-#EXTINF:-1 channel-id="" tvg-id="PlanetePlusAventure.fr" tvg-name=""   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/PLAN%C3%88TE%2B_A%26E.png" group-title="Crime & Mystère",PLANETE A&E HD
+#EXTINF:-1 channel-id="" tvg-id="PlanetePlusAventure.fr" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/PlanetePlus_2011.svg/1200px-PlanetePlus_2011.svg.png" group-title="Crime & Mystère",PLANETE A&E HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9235.ts
 
 #EXTINF:-1 channel-id="" tvg-id="PlanetePlus.fr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/PlanetePlus_2011.svg/1200px-PlanetePlus_2011.svg.png"  group-title="Crime & Mystère", PLANETE+ HD
@@ -211,10 +211,6 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9503.ts
 #EXTINF:-1channel-id="" tvg-id="" tvg-name=""tvg-chno=""  tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2014/07/14121638/TV8_Mont-blanc_logo.png" group-title="DISCV. NATGEO PLANETE+",MONT BLANC TV
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/126662.ts
 
-####################################  SKY CINEMA ###########################
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt5ef435d93851f6d2/5edfe58ec4dd88332f266863/Cinema.jpg" group-title="Cinéma",SKY CINEMA
-https://i.mjh.nz/SamsungTVPlus/GBBD3100006XM.m3u8
 
 ################################################################   Cinéma   Cinéma     Cinéma      Cinéma     #############################################
 
@@ -327,44 +323,64 @@ http://switchtv.zapto.org:25461/9WDt8TLrJ9/wSqEycpeJu/29141
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-id="bonappetit.us" tvg-logo="https://i.imgur.com/YhFFxlE.png" group-title="CUISINE",Bon appétit (1080p)
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 channel-id="pluto-5f8ed48146ba9e00078424b6" tvg-id="5f8ed48146ba9e00078424b6" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png" tvg-chno="625" group-title="CUISINE" , Pluto TV Cuisine
+#EXTINF:-1 channel-id="pluto-5f8ed48146ba9e00078424b6" tvg-id="5f8ed48146ba9e00078424b6" tvg-name=""  tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png" group-title="CUISINE" , Pluto TV Cuisine
 https://r.mjh.nz/PlutoTV/5f8ed48146ba9e00078424b6-alt.m3u8
-#EXTINF:-1 tvg-id="622b393e32669a00071a6d4c" tvg-logo="http://images.pluto.tv/channels/622b393e32669a00071a6d4c/colorLogoPNG.png" group-title="Culinária em inglês",Great British Menu | Pluto TV Reino Unido
+#EXTINF:-1 tvg-id="622b393e32669a00071a6d4c" tvg-logo="http://images.pluto.tv/channels/622b393e32669a00071a6d4c/colorLogoPNG.png" group-title="CUISINE",Great British Menu | Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/622b393e32669a00071a6d4c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
 
 ################################       Divertissement           Divertissement      ######################################################
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://i.ibb.co/d66k2fw/maisontrvx.png" group-title="Divertissement",MAISON & TRAVAUX
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://www.develink.com/wp-content/uploads/2022/12/maison-et-travaux.png" group-title="Divertissement",MAISON & TRAVAUX
 https://d387lnkgycbwl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/761cde02-1df4-4a1a-ad50-7033ede188ef/2.m3u8
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://i.ibb.co/tYqGGQp/travelxp.jpg" group-title="Divertissement",TRAVEL XP
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-1CFTDLmB3fbKTGUwpKwY_5Lz8l3DmoJOfw&s" group-title="Divertissement",TRAVEL XP
 https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8
 
-#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/06/logo-via-occitanie-pays-gardois.jpg" group-title="Divertissement",Viá Occitanie
+#EXTINF:-1 channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Viaoccitanie.png" group-title="Divertissement",Viá Occitanie
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
 
+#EXTINF:-1 tvg-id="625567abd664ea0007605f34" tvg-logo="https://images.pluto.tv/channels/625567abd664ea0007605f34/colorLogoPNG.png" group-title="Divertissement",World's Greatest | Pluto TV Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625567abd664ea0007605f34/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
- 
+#EXTINF:-1 tvg-id="6036e6e7ac69c400072afca2" tvg-logo="http://images.pluto.tv/channels/6036e6e7ac69c400072afca2/colorLogoPNG.png" group-title="Divertissement",Courtroom | Pluto TV EUA 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6036e6e7ac69c400072afca2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+
+#EXTINF:-1 tvg-id="USAJ3400020KC" tvg-logo="http://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" group-title="Divertissement",Tiny House Nation | Samsung EUA
+https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tuNkrBM.png" group-title="Divertissement",Hollywire
+https://hwusassai.bozztv.com/HD3400/HD3400.m3u8
+#EXTINF:-1 tvg-id="5dc0c78281eddb0009a02d5e" tvg-logo="http://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Divertissement ",ET | EUA E!
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
+#EXTINF:-1 tvg-id="dtv_EPGYoung Hollywood" tvg-logo="https://i.imgur.com/9dp92Cf.png" group-title="Divertissement",Young Hollywood | Distro TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/young-hollywood/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Young Hollywood" tvg-logo="https://i.imgur.com/9dp92Cf.png" group-title="Divertissement",Young Hollywood | Rakuten
+https://younghollywood-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="5ddf901280e3550009139c86" tvg-logo="https://images.pluto.tv/channels/5ddf901280e3550009139c86/colorLogoPNG.png" group-title="Divertissement",5 Building Britain | Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="623464d7185bef0007e337c0" tvg-logo="http://images.pluto.tv/channels/623464d7185bef0007e337c0/colorLogoPNG.png" group-title="Divertissement",Adventure | Pluto TV Reino Unido
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623464d7185bef0007e337c0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 
 
 
 ########################################################    News & Info        News & Info        News & Info       #####################################
 
-#EXTINF:-1 channel-id="pluto-60d35bcaf1ff4a00078af0a6" tvg-id="60d35bcaf1ff4a00078af0a6"  tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png" tvg-chno="1125" group-title="News & Info" , Euronews
+#EXTINF:-1 channel-id="" tvg-id=""  tvg-name="Euronews" tvg-logo="https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png"  group-title="News & Info", Euronews
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714703255/ei/N_czZrKhAc-qobIPmoCziAw/ip/2804%3A14d%3A7e83%3A5ac1%3A6dcf%3A3143%3A36a9%3A8498/id/NiRIbKwAejk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118566/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f3arGCVNVZIavmRkjQ2iV8UmpLS8AV6hWyMUNrDjJyFyENn-7xwtkiIj/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMiGISlowKZBl3Ulta5raFbHxmhUL7j1pzdUvtLfnRJqAiBjQz1SFCb2dGflNDGYmVxEFEtM_3CgqVC1Ob8T4E10qA%3D%3D/file/index.m3u8
 
-#EXTINF:-1 channel-id="pluto-6231ec93779a9d00079ba8e2" tvg-id="CBS News" tvg-logo="https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/colorLogoPNG.png" tvg-chno="1130" group-title="News & Info" , CBS News
+#EXTINF:-1 channel-id="pluto-6231ec93779a9d00079ba8e2" tvg-id="CBS News" tvg-logo="https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/colorLogoPNG.png"  group-title="News & Info" , CBS News
 https://r.mjh.nz/PlutoTV/6231ec93779a9d00079ba8e2-alt.m3u8
-
-#EXTINF:-1 channel-id="2" tvg-id="France 24" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" tvg-chno="" group-title="News & Info" , France 24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1714703336/ei/iPczZs-5CMaC-LAPw4iOyAo/ip/2804%3A14d%3A7e83%3A5ac1%3A6dcf%3A3143%3A36a9%3A8498/id/l8PMl7tUDIE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118566/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f8BWsyzM1zxsyj1-712rVWLl6qHe6x-8pz2xYTk2q5sOwUuSNBhk6JEP/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKOp_-8afzNKg_I1sjovEYM-UEQ4P3Fl8S5IWG8Opu5jAiAz3DL9CAJ6d21s1_iT_y-dpBkhuk3DkSfdQIABgnAnCA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="France 24" tvg-name="" tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="News & Info",FRANCE 24
 https://new.cache-stream.workers.dev/stream/UCCCPCZNChQdGa9EkATeye4g/live.m3u8
 
-#EXTINF:-1 channel-id="" tvg-id="6231ec93779a9d00079ba8e2" tvg-name="CGTN Français"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/509px-France24.png" tvg-chno="" group-title="News & Info" , CGTN Français
+#EXTINF:-1 channel-id="" tvg-id="6231ec93779a9d00079ba8e2" tvg-name="CGTN Français"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/640px-CGTN_-_fran%C3%A7ais.png" tvg-chno="" group-title="News & Info" , CGTN Français
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/j68q1Bp/i24.png" group-title="News & Info",I24 NEWS FR
@@ -381,42 +397,4 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25226.ts
 
 #EXTINF:-1 channel-id="" tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png" group-title="News & Info",BEL RTL (BE)
 https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-
-
-
-############################################## Internationales   #################################
-
-#EXTINF:-1 tvg-id="625567abd664ea0007605f34" tvg-logo="https://images.pluto.tv/channels/625567abd664ea0007605f34/colorLogoPNG.png" group-title="Internationales",World's Greatest | Pluto TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/625567abd664ea0007605f34/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="Xplore.cy" tvg-logo="https://i.imgur.com/ErFj6rR.png" group-title="Internationales",Xplore | legenda em grego | Chipre
-https://web.onair-radio.eu/explorecy/explorecy/master.m3u8
-#EXTINF:-1 tvg-id="6036e6e7ac69c400072afca2" tvg-logo="http://images.pluto.tv/channels/6036e6e7ac69c400072afca2/colorLogoPNG.png" group-title="Internationales",Courtroom | Pluto TV EUA 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6036e6e7ac69c400072afca2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-
-#EXTINF:-1 tvg-id="USAJ3400020KC" tvg-logo="http://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" group-title="Internationales",Tiny House Nation | Samsung EUA
-https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tuNkrBM.png" group-title="Internationales",Hollywire
-https://hwusassai.bozztv.com/HD3400/HD3400.m3u8
-#EXTINF:-1 tvg-id="5dc0c78281eddb0009a02d5e" tvg-logo="http://images.pluto.tv/channels/5dc0c78281eddb0009a02d5e/colorLogoPNG.png" group-title="Internationales ",ET | EUA E!
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-id="dtv_EPGYoung Hollywood" tvg-logo="https://i.imgur.com/9dp92Cf.png" group-title="Internationales",Young Hollywood | Distro TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/young-hollywood/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Young Hollywood" tvg-logo="https://i.imgur.com/9dp92Cf.png" group-title="Internationales",Young Hollywood | Rakuten
-https://younghollywood-rakuten.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 channel-id="pluto-60d35a74c63c3c0008df6a90" tvg-id="60d35a74c63c3c0008df6a90" tvg-name="BBC Drama"   tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG.png" tvg-chno="115" group-title="Internationales" , BBC Drama
-https://r.mjh.nz/PlutoTV/60d35a74c63c3c0008df6a90-alt.m3u8
-#EXTINF:-1 tvg-id="5ddf901280e3550009139c86" tvg-logo="https://images.pluto.tv/channels/5ddf901280e3550009139c86/colorLogoPNG.png" group-title="Internationales",5 Building Britain | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddf901280e3550009139c86/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="623464d7185bef0007e337c0" tvg-logo="http://images.pluto.tv/channels/623464d7185bef0007e337c0/colorLogoPNG.png" group-title="Internationales",Adventure | Pluto TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/623464d7185bef0007e337c0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-
-
-
-
-
 
