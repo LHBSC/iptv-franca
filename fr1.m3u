@@ -90,7 +90,7 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51145.ts
 #EXTINF:-1 channel-id="" tvg-id="CrimeDistrict.fr" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crime_district.jpg/200px-Crime_district.jpg" group-title="Crime & Mystère",CRIME DISTRICT ALTER
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25254.ts
 
-#EXTINF:-1  channel-id="" tvg-id="" tvg-name=""  tvg-logo="https://i.ibb.co/ChVvjpF/bfmgr.jpg" group-title="Crime & Mystère",BFM GRAND REPORTAGES
+#EXTINF:-1  tvg-logo="https://i.ibb.co/ChVvjpF/bfmgr.jpg" group-title="Crime & Mystère",BFM GRAND REPORTAGES
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8
 
 #EXTINF:-1 channel-id="pluto-5f914f4b36d67d0007a91a04" tvg-id="5f914f4b36d67d0007a91a04" tvg-name=""  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" tvg-chno="400" group-title="Crime & Mystère" , Pluto TV Investigation
