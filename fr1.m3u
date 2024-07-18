@@ -71,12 +71,15 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15119.ts
 #EXTINF:-1 channel-id="" tvg-id="RMCStory.fr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3e/RMC_Story_logo_2018.svg/800px-RMC_Story_logo_2018.svg.png" group-title="Crime & Mystère",RMC STORY
 https://d36bxc1bknkxrk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ewcp19zjaxpt/index.m3u8
 #EXTINF:-1 channel-id="" tvg-id="RMCDecouverte.fr" tvg-name=""  tvg-logo="https://sergetigneres.fr/wp-content/uploads/2018/12/rmc-d%C3%A9couverte-logo-png.png" group-title="Crime & Mystère",RMC DECOUVERTE 
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15131.ts
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
 #EXTINF:-1 channel-id="" tvg-id="RMCDecouverte.fr" tvg-name=""  tvg-logo="https://sergetigneres.fr/wp-content/uploads/2018/12/rmc-d%C3%A9couverte-logo-png.png" group-title="Crime & Mystère",RMC DECOUVERTE FHD
-http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9508.ts
+https://d2mt8for1pddy4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6uronj7gzvy4j/index.m3u8
  
 #EXTINF:-1 channel-id="" tvg-id="CanalPlusDocs.fr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/C%2B_Docs.png/640px-C%2B_Docs.png" group-title="Crime & Mystère",CANAL+ DOCS
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/142288.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Cstar-logo.jpg" group-title="DOCUMENTÁRIOS",CSTAR HD
+http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9561.ts
 
 #EXTINF:-1 channel-id="" tvg-id="PlanetePlus.fr" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/PlanetePlus_2011.svg/1200px-PlanetePlus_2011.svg.png"  group-title="Crime & Mystère", PLANETE+ HD
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/15135.ts
@@ -99,8 +102,8 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/51145.ts
 #EXTINF:-1 channel-id="" tvg-id="CrimeDistrict.fr" tvg-name=""  tvg-logo="https://www.planetecsat.com/wp-content/uploads/2021/06/MEA-Crime-District.jpg" group-title="Crime & Mystère",CRIME DISTRICT ALTER
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25254.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/640px-BFM_TV_logo.png" group-title="Crime & Mystère",BFM GRAND REPORTAGES
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ChVvjpF/bfmgr.jpg" group-title="Crime & Mystère"" ,BFM GRAND REPORTAGES
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_GRANDSREPORTAGES/index.m3u8?start=LIVE&end=END
 
 #EXTINF:-1  tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pluto_TV_2020_logo.png/640px-Pluto_TV_2020_logo.png"  group-title="Crime & Mystère",Pluto TV Investigation
 https://r.mjh.nz/PlutoTV/5f914f4b36d67d0007a91a04-alt.m3u8
