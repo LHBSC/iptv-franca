@@ -44,7 +44,7 @@ http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9276.ts
 #EXTINF:-1 channel-id="" tvg-id="France5.fr" tvg-name="France 5" tvg-logo="https://iconape.com/wp-content/png_logo_vector/france-5-logo.png" group-title="TF1",FRANCE 5
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/25170.ts
  
-#EXTINF:-1 channel-id="" tvg-id="6ter.fr" tvg-name="6Ter"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/6ter_2012.png/1200px-6ter_2012.png" group-title="TF1",6TER
+#EXTINF:-1 channel-id="" tvg-id="6ter.fr" tvg-name="6Ter"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/6ter.png/revision/latest?cb=20121211233128" group-title="TF1",6TER
 http://x.v-iptv.com:25443/live/HAJG6/k7bKPqg05y/9364.ts
  
 #EXTINF:-1 channel-id="" tvg-id="Cherie25.fr" tvg-name="" tvg-logo="https://icon2.cleanpng.com/20181118/tkc/kisspng-logo-television-channel-m6-hogar-tv-attractive-barcelona-armchair-view-larger-fullscre-5bf1085d607bb6.6797960415425229733952.jpg" group-title="TF1",CHÉRIE 25
