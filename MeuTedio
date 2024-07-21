@@ -639,6 +639,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61eeb5c3d740670007da3a
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-608a2c722957c9002c6a6179" tvg-logo="https://i.imgur.com/KQA7X4j.png" group-title="Documentários em inglês",Pattrn | EUA
 http://linear-76.frequency.stream/76/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-608a2c722957c9002c6a6179" tvg-logo="https://i.imgur.com/KQA7X4j.png" group-title="Documentários em inglês",Pattrn | Local Now
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1773
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-608a2c722957c9002c6a6179" tvg-logo="https://i.imgur.com/KQA7X4j.png" group-title="Documentários em inglês",Pattrn | Plex
@@ -730,357 +731,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3
 
 
 
-########## Esportes em inglês ############## Esportes em inglês ############## Esportes em inglês ############## Esportes em inglês ############## Esportes em inglês ##############
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/accdn-logo.png" group-title="Esportes em inglês",ACCDN | EUA 
-https://cda7fd8376774e648dbcc6136f7b42a5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ACCDigitalNetwork/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VRtaxAp.png" group-title="Esportes em inglês",ACL Cornhole TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1289
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VRtaxAp.png" group-title="Esportes em inglês",ACL Cornhole TV | link 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1998
-#EXTINF:-1 tvg-id="5db867744f229f0009266784" tvg-logo="http://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="Esportes em inglês",Action Sports | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bnJQE2V.png" group-title="Esportes em inglês",Arena Games Triathlon
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2142
-#EXTINF:-1 tvg-id="5cabdf1437b88b26947346b2" tvg-logo="http://images.pluto.tv/channels/5cabdf1437b88b26947346b2/colorLogoPNG.png" group-title="Esportes em inglês",Backcountry | Pluto TV EUA 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cabdf1437b88b26947346b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5df975e2b27cf5000921c102" tvg-logo="http://images.pluto.tv/channels/5df975e2b27cf5000921c102/colorLogoPNG.png" group-title="Esportes em inglês",beIN Sports Xtra | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="59641d9173ac1fec2fc01f17" tvg-logo="http://images.pluto.tv/channels/59641d9173ac1fec2fc01f17/colorLogoPNG.png" group-title="Esportes em inglês",Big Sky Conference | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5967f5cf73ac1fec2fc07148" tvg-logo="http://images.pluto.tv/channels/5967f5cf73ac1fec2fc07148/colorLogoPNG.png" group-title="Esportes em inglês",Big Sky Conference Live | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5967f5cf73ac1fec2fc07148/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7B4AahB.png" group-title="Esportes em inglês",Billiard TV
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7B4AahB.png" group-title="Esportes em inglês",Billiard TV 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2538
-
-#EXTINF:-1 tvg-id="Bleav Football" tvg-logo="https://i.imgur.com/nQ0M9TP.png" group-title="Esportes em inglês",Bleav Football | Distro TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bleav-football/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65" tvg-logo="https://i.imgur.com/zmvTgto.png" group-title="Esportes em inglês",CampusLore Sports | Roku
-http://linear-235.frequency.stream/235/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="5e9f2c05172a0f0007db4786" tvg-logo="http://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Esportes em inglês",CBS Sports HQ | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-5eea71d45252710041e0ccb9" tvg-logo="https://i.imgur.com/Ff1yOuL.png" group-title="Esportes em inglês",Edge Sport | Plex EUA
-https://edgesports-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-edgesports-plex/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ff1yOuL.png" group-title="Esportes em inglês",Edge Sport | Reino Unido 
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ff1yOuL.png" group-title="Esportes em inglês",Edge Sport | Xiaomi 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00780-imgmedialtd-edgesports-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12321" tvg-logo="https://i.imgur.com/PD2v6sb.png" group-title="Esportes em inglês",Extreme Plus
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=729
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12321" tvg-logo="https://i.imgur.com/PD2v6sb.png" group-title="Esportes em inglês",Extreme Plus 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=730
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12321" tvg-logo="https://i.imgur.com/PD2v6sb.png" group-title="Esportes em inglês",Extreme Plus 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=731
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12321" tvg-logo="https://i.imgur.com/PD2v6sb.png" group-title="Esportes em inglês",Extreme Plus 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1306
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12321" tvg-logo="https://i.imgur.com/PD2v6sb.png" group-title="Esportes em inglês",Extreme Plus 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2011
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12321" tvg-logo="https://i.imgur.com/PD2v6sb.png" group-title="Esportes em inglês",Extreme Plus 6
-https://ov.ottera.tv/live/master.m3u8?channel=chan_ep
-#EXTINF:-1 tvg-id="5f8ed327f9e9b0000761141e" tvg-logo="http://images.pluto.tv/channels/5f8ed327f9e9b0000761141e/colorLogoPNG.png" group-title="Esportes em inglês",Extrême | inglês e francês | França
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="DEBA10000051Z" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/18/DEBA10000051Z_20201029T004114.png" group-title="Esportes em inglês",Fuel TV | Alemanha
-https://1d289f506bff499fb16f39c4a07f3d88.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FuelTV/playlist.m3u8
-#EXTINF:-1 tvg-id="ATAJ3200005G4" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/84/ATAJ3200005G4_20201029T004108.png" group-title="Esportes em inglês",Fuel TV | Áustria
-https://d110dc9d81454a31a0587f6853a818c6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_FuelTV/playlist.m3u8
-#EXTINF:-1 tvg-id="CAAJ34000107T" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/84/ATAJ3200005G4_20201029T004108.png" group-title="Esportes em inglês",Fuel TV | Austrália
-https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CAAJ34000107T" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/85/CAAJ34000107T_20210525T053256.png" group-title="Esportes em inglês",Fuel TV | Brasil
-https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CAAJ34000107T" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/85/CAAJ34000107T_20210525T053256.png" group-title="Esportes em inglês",Fuel TV | Canadá
-https://e0e409872e604f53941d296c698a2cde.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ca_FuelTV/playlist.m3u8
-#EXTINF:-1 tvg-id="ESAJ4500025S7" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/04/ESAJ4500025S7_20201029T004331.png" group-title="Esportes em inglês",Fuel TV | Espanha 
-https://ca770451d44445029c7d89918c921ba4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_FuelTV/playlist.m3u8
-#EXTINF:-1 tvg-id="FRBA1000006LP" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/64/FRBA1000006LP_20201029T004312.png" group-title="Esportes em inglês",Fuel TV | França
-https://153f55b42b7d42008a91af833c1c52ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FuelTV/playlist.m3u8
-#EXTINF:-1 tvg-id="INBA5100026CZ" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/11/INBA5100026CZ_20210428T035932.png" group-title="Esportes em inglês",Fuel TV | Índia
-https://7595cfbb77bb4ec992f8a6ad586ca6e7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-in_FuelTV/playlist.m3u8
-#EXTINF:-1 tvg-id="ITAJ4500025ES" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/49/ITAJ4500025ES_20201029T004442.png" group-title="Esportes em inglês",Fuel TV | Itália
-https://fueltv-fueltv-6-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="60bf32701f19550007dd2ee9" tvg-logo="http://images.pluto.tv/channels/60bf32701f19550007dd2ee9/colorLogoPNG.png" group-title="Esportes em inglês",Fuel TV | Pluto TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60bf32701f19550007dd2ee9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="GBBA33000347P" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/54/GBBA33000347P_20201029T004036.png" group-title="Esportes em inglês",Fuel TV | Reino Unido
-https://6662c4e5ecf14e23b198830de4e1ddb7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_FuelTV/playlist.m3u8
-#EXTINF:-1 tvg-id="CAAJ34000107T" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/05/13/USAK3508711A_20210525T051633.png" group-title="Esportes em inglês",Fuel TV | Samsung EUA
-https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" tvg-logo="https://i.imgur.com/oqT92nF.png" group-title="Esportes em inglês",FTF Sports | EUA
-https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-605a309dc5acdc002c7a20aa" tvg-logo="https://i.imgur.com/oqT92nF.png" group-title="Esportes em inglês",FTF Sports | EUA 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=843
-#EXTINF:-1 tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="Esportes em inglês",Fox Sports | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="foxsports.com.au" tvg-logo="https://i.imgur.com/vLdszKt.png" group-title="Esportes em inglês",Fox Sports News | Austrália
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-id="GolTV.us" tvg-logo="https://i.imgur.com/V6bykuf.png" group-title="Esportes em inglês",Gol TV | inglês e espanhol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1090
-#EXTINF:-1 tvg-id="dtv_EPGHavoc" tvg-logo="https://i.imgur.com/EAm9evS.png" group-title="Esportes em inglês",Havoc TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2559
-#EXTINF:-1 tvg-id="dtv_EPGHavoc" tvg-logo="https://i.imgur.com/EAm9evS.png" group-title="Esportes em inglês",Havoc TV 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1434
-#EXTINF:-1 tvg-id="ATBA3300030EZ" tvg-logo="https://i.imgur.com/iVRlKNH.png" group-title="Esportes em inglês",Horse and Country | Austrália
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GBBA2200008YU" tvg-logo="https://i.imgur.com/iVRlKNH.png" group-title="Esportes em inglês",Horse and Country | Reino Unido
-https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="Esportes em inglês",Kick Sports
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1433
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZiVPUiT.png" group-title="Esportes em inglês",La Muscle TV
-https://streamcdn.lamuscle.com/lamtv-origin/smil:monsterworkout-tricepspt1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7ky7XsD.png" group-title="Esportes em inglês",Lacrosse TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2000
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MzDEzXA.png" group-title="Esportes em inglês",Lift Ticket
-http://linear-265.frequency.stream/265/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tuwpis1.png" group-title="Esportes em inglês",LSN
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=842
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tuwpis1.png" group-title="Esportes em inglês",LSN 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1132
-#EXTINF:-1 tvg-id="MASL" tvg-logo="https://i.imgur.com/6jSxtz0.png" group-title="Esportes em inglês",Major Arena Soccer League
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4060
-#EXTINF:-1 tvg-id="5e66968a70f34c0007d050be" tvg-logo="http://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="Esportes em inglês",MLB | Beisebol | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5cb626cfcaf83414128f439c" tvg-logo="http://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="Esportes em inglês",MLS | Futebol | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5ced7d5df64be98e07ed47b6" tvg-logo="http://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="Esportes em inglês",NFL Channel | EUA 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5ecd60a893483f0007d9b98d" tvg-logo="http://images.pluto.tv/channels/5ecd60a893483f0007d9b98d/colorLogoPNG.png" group-title="Esportes em inglês",Outside TV | EUA
-https://outside-tv-samsung.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="5ecd60a893483f0007d9b98d" tvg-logo="http://images.pluto.tv/channels/5ecd60a893483f0007d9b98d/colorLogoPNG.png" group-title="Esportes em inglês",Outside TV | EUA 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=379
-#EXTINF:-1 tvg-id="5ecd60a893483f0007d9b98d" tvg-logo="http://images.pluto.tv/channels/5ecd60a893483f0007d9b98d/colorLogoPNG.png" group-title="Esportes em inglês",Outside TV | EUA 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1030
-#EXTINF:-1 tvg-id="5ecd60a893483f0007d9b98d" tvg-logo="http://images.pluto.tv/channels/5ecd60a893483f0007d9b98d/colorLogoPNG.png" group-title="Esportes em inglês",Outside TV | EUA 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1098
-#EXTINF:-1 tvg-id="5f84ce2ac265700008d48dcf" tvg-logo="http://images.pluto.tv/channels/5f84ce2ac265700008d48dcf/colorLogoPNG.png" group-title="Esportes em inglês",Pac-12 Insider | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f84ce2ac265700008d48dcf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6LxXto4.png" group-title="Esportes em inglês",Paragliding TV
-https://streamads.ottera.tv/playlist.m3u8?network_id=701
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c99e3b964c65b53de32f" tvg-logo="https://i.imgur.com/dCdjJkb.png" group-title="Esportes em inglês",Party Poker TV
-https://cdn15.fntvchannel.com/index.m3u8
-
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6196c99e3b964c65b53de32f" tvg-logo="https://i.imgur.com/dCdjJkb.png" group-title="Esportes em inglês",Party Poker TV | link 2
-https://cdn19.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/PartyPoker-Plex/index.m3u8?ads.X-PLEX-TOKEN=y4Rf78msRg4_dQbMaoax&ads.CHANNEL=6196c99e3b964c65b53de32f&ads.DEVICE_ID=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.DNT=0
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7XNAMS.png" group-title="Esportes em inglês",PX Sports | legenda em espanhol | México
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1709
-#EXTINF:-1 tvg-id="60d39387706fe50007fda8e8" tvg-logo="https://images.pluto.tv/channels/60d39387706fe50007fda8e8/colorLogoPNG.png" group-title="Esportes em inglês",PBR Ride Pass | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d39387706fe50007fda8e8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5de94dacb394a300099fa22a" tvg-logo="http://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="Esportes em inglês",PGA Tour | Golfe | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="GBAJ4200006XW" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/83/GBAJ4200006XW_20200923T100444.png" group-title="Esportes em inglês",PlayersTV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsunguk-playerstv-samsungtv-uk/playlist.m3u8
-#EXTINF:-1 tvg-id="5fc54366b04b2300072e31af" tvg-logo="http://images.pluto.tv/channels/5fc54366b04b2300072e31af/colorLogoPNG.png" group-title="Esportes em inglês",Poker Go | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fc54366b04b2300072e31af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="60d32781fc7abf0007d00d33" tvg-logo="http://images.pluto.tv/channels/60d32781fc7abf0007d00d33/colorLogoPNG.png" group-title="Esportes em inglês",Poker Go | Pluto TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d32781fc7abf0007d00d33/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60afc726623f2f002c5bb49f" tvg-logo="https://i.imgur.com/OtX1uj2.png" group-title="Esportes em inglês",Poker Night | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1353
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="http://images.pluto.tv/channels/613272f1279862000734464e/colorLogoPNG.png" group-title="Esportes em inglês",RealMadrid TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-logo="http://images.pluto.tv/channels/613272f1279862000734464e/colorLogoPNG.png" group-title="Esportes em inglês",RealMadrid TV 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1741
-#EXTINF:-1 tvg-id="613272f1279862000734464e" tvg-logo="http://images.pluto.tv/channels/613272f1279862000734464e/colorLogoPNG.png" group-title="Esportes em inglês",RealMadrid TV | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/613272f1279862000734464e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f9B5Dnp.png" group-title="Esportes em inglês",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f9B5Dnp.png" group-title="Esportes em inglês",Red Bull TV | Reino Unido
-https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f9B5Dnp.png" group-title="Esportes em inglês",Red Bull TV | vídeo de parkour na Grécia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=591
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vDdaBmI.png" group-title="Esportes em inglês",Ski TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1367
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QweV0BP.png" group-title="Esportes em inglês",Sky Racing 1 | Reino Unido
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7MkX0Ct.png" group-title="Esportes em inglês",Sky Racing 2 | Reino Unido
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-#EXTINF:-1 tvg-id="DUMMYSlopesTV" tvg-logo="https://i.imgur.com/96KsJdS.png" group-title="Esportes em inglês",Slopes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=72
-#EXTINF:-1 tvg-id="DUMMYSlopesTV" tvg-logo="https://i.imgur.com/96KsJdS.png" group-title="Esportes em inglês",Slopes | Galxy TV 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2585
-#EXTINF:-1 tvg-id="DUMMYSlopesTV" tvg-logo="https://i.imgur.com/96KsJdS.png" group-title="Esportes em inglês",Slopes | Galxy TV 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2596
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-619bffbfb9d380b2df7296ce" group-title="Esportes em inglês",Spartan TV
-https://spartantv-lg.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="5c393cad2de254456f7ef8c2" tvg-logo="http://images.pluto.tv/channels/5c393cad2de254456f7ef8c2/colorLogoPNG.png" group-title="Esportes em inglês",Spike Outdoors | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="56340779a738201b4ccfeac9" tvg-logo="http://images.pluto.tv/channels/56340779a738201b4ccfeac9/colorLogoPNG.png" group-title="Esportes em inglês",Sports | Pluto TV EUA 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5d7677fa2ec536ce1d587eeb" tvg-logo="https://images.pluto.tv/channels/5d7677fa2ec536ce1d587eeb/colorLogoPNG.png" group-title="Esportes em inglês",Sports | Pluto TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ie6wpAO.png" group-title="Esportes em inglês",Sports Channel Network | Reino Unido
-https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FreeSports.uk" tvg-logo="https://i.imgur.com/Nh4LyPv.png" group-title="Esportes em inglês",Sports Tonight | Reino Unido
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="5bd81b1053ed2c6334ea0856" tvg-logo="https://images.pluto.tv/channels/5bd81b1053ed2c6334ea0856/colorLogoPNG.png" group-title="Esportes em inglês",Strongman | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bd81b1053ed2c6334ea0856/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="USBB10000058A" tvg-logo="https://i.imgur.com/ECKvVLA.png" group-title="Esportes em inglês",Surf Now TV | Samsung EUA 
-https://dgwfm675921lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/SurfNowTv-prod/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41" tvg-logo="https://i.imgur.com/ECKvVLA.png" group-title="Esportes em inglês",Surf Now TV | Plex EUA 
-https://0e52d42a12b74a218576cd628069fa50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SurfNowTV/11100072-01d6-4819-ba9a-a99ad479a5c7/3.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6227c215c9f485cc7afe8c41" tvg-logo="https://i.imgur.com/ECKvVLA.png" group-title="Esportes em inglês",Surf Now TV | Roku EUA 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QOZyeg6.png" group-title="Esportes em inglês",Swerve Sports | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1555
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QOZyeg6.png" group-title="Esportes em inglês",Swerve Sports | Roku
-http://linear-253.frequency.stream/253/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n3C7ytq.png" group-title="Esportes em inglês",Tennis Channel | Samsung | Reino Unido
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nYAFRKX.png" group-title="Esportes em inglês",The Cycling Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=700
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ndCkouf.png" tvg-id="13873" group-title="Esportes em inglês",Trace Sport Stars | Austrália
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8609" tvg-logo="https://i.imgur.com/r7YUsHP.png" group-title="Esportes em inglês",USA Today Sports
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaysports-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=vB1fQVteisRvSpyJtSgH&channelId=60df3e18541143002f3b8609
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ad9b7aae738977e2c312132/colorLogoPNG.png" group-title="Esportes em inglês",World Poker Tour
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1346
-#EXTINF:-1 tvg-id="5ad9b7aae738977e2c312132" tvg-logo="https://images.pluto.tv/channels/5ad9b7aae738977e2c312132/colorLogoPNG.png" group-title="Esportes em inglês",World Poker Tour | Pluto TV Alemanha
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b7aae738977e2c312132/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5616f9c0ada51f8004c4b091" tvg-logo="http://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" group-title="Esportes em inglês",World Poker Tour | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f8ecfb9db6c180007a6d1b0" tvg-logo="http://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="Esportes em inglês",World Poker Tour | Pluto TV França
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ecfb9db6c180007a6d1b0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="608016e446d73500075ea7e0" tvg-logo="http://images.pluto.tv/channels/608016e446d73500075ea7e0/colorLogoPNG.png" group-title="Esportes em inglês",World Poker Tour | Pluto TV Itália
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608016e446d73500075ea7e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5ad8d796e738977e2c31094a" tvg-logo="https://images.pluto.tv/channels/5ad8d796e738977e2c31094a/colorLogoPNG.png" group-title="Esportes em inglês",World Poker Tour | Pluto TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d796e738977e2c31094a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YdRi6sW.png?1" tvg-id="13891" group-title="Esportes em inglês",Whistle TV
-https://whistle-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D20gKxq.png" group-title="Esportes em inglês",World Billiards TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=297
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D20gKxq.png" group-title="Esportes em inglês",World Billiards TV 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=605
-
-
-
-#### esportes em inglês: lutas ##### esportes em inglês: lutas ##### esportes em inglês: lutas ##### esportes em inglês: lutas ##### esportes em inglês: lutas ##### esportes em inglês: lutas ##### esportes em inglês: lutas ##### esportes em inglês: lutas ###
-
-
-#EXTINF:-1 tvg-id="5d815e489b315b154db2e053" tvg-logo="http://images.pluto.tv/channels/5d815e489b315b154db2e053/colorLogoPNG.png" group-title="Esportes em inglês: lutas",American Gladiators | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d815e489b315b154db2e053/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="62792f34f3aa05000728841e" tvg-logo="http://images.pluto.tv/channels/62792f34f3aa05000728841e/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Bellator MMA | Pluto TV Alemanha
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62792f34f3aa05000728841e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="http://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Bellator MMA | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Black Belt
-https://ov.ottera.tv/live/master.m3u8?channel=jun_bb
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Black Belt 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=903
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Black Belt 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=806
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Black Belt 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1670
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Black Belt 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1760
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Black Belt 6
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1782
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://i.imgur.com/J5sEZhQ.png" group-title="Esportes em inglês: lutas",Black Belt 7
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=749
-#EXTINF:-1 tvg-id="5fac425f949b4600079938f3" tvg-logo="http://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Boxing | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Esportes em inglês: lutas",Channel Fight
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Esportes em inglês: lutas",Channel Fight 2
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=113
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Esportes em inglês: lutas",Channel Fight 3
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=114
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Esportes em inglês: lutas",Channel Fight 4
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=168
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Esportes em inglês: lutas",Channel Fight 5
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1786
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://i.imgur.com/w3RulQE.png" group-title="Esportes em inglês: lutas",Channel Fight 6
-https://ov.ottera.tv/live/master.m3u8?channel=chan_cf
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://i.imgur.com/ACqqp2S.png" group-title="Esportes em inglês: lutas",Combat Go | EUA 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=671
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://i.imgur.com/ACqqp2S.png" group-title="Esportes em inglês: lutas",Combat Go | EUA 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=717
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://i.imgur.com/ACqqp2S.png" group-title="Esportes em inglês: lutas",Combat Go | EUA 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=721
-
-
-#EXTINF:-1 tvg-id="5bb1ac3e268cae539bcedb07" tvg-logo="http://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Combate World | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5812b0f2237a6ff45d16c3f9" tvg-logo="http://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Fight | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EHWFgjc.png" group-title="Esportes em inglês: lutas",Extreme World Wrestling | fuso 1
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1371
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EHWFgjc.png" group-title="Esportes em inglês: lutas",Extreme World Wrestling | fuso 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1372
-#EXTINF:-1 tvg-id="5ad8d659fd87eb3a2717afc9" tvg-logo="https://images.pluto.tv/channels/5ad8d659fd87eb3a2717afc9/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Fight | Pluto TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d659fd87eb3a2717afc9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=566
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=683
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=965
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=781
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 6
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=831
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 7
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=857
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 8
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=921
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://i.imgur.com/uPrDjp0.png" group-title="Esportes em inglês: lutas",Fight Network | EUA 9
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=966
-#EXTINF:-1 tvg-logo="https://i.imgur.com/12rAqeP.png" group-title="Esportes em inglês: lutas",FITE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2522
-#EXTINF:-1 tvg-logo="https://i.imgur.com/12rAqeP.png" group-title="Esportes em inglês: lutas",FITE 2
-https://cdn-akamai.fite.tv/4038629_fite-247_abr/live/4038629_fite-247/live_722/chunks_dvr.m3u8?embed_site=fite
-#EXTINF:-1 tvg-id="5417a212ff9fba68282fbf5e" tvg-logo="http://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Glory Kickboxing | Canadá 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5ad8d6f5e738977e2c310949" tvg-logo="https://images.pluto.tv/channels/5ad8d6f5e738977e2c310949/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Glory Kickboxing | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d6f5e738977e2c310949/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FFq34mg.png" group-title="Esportes em inglês: lutas",Grappling Network
-https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FFq34mg.png" group-title="Esportes em inglês: lutas",Grappling Network | Local Now
-https://thegrapplingnetwork-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62587d025d06634715394672_thegrapplingnetwork-live-1/236.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820" tvg-logo="https://i.imgur.com/xxRq9Z3.png" group-title="Esportes em inglês: lutas",Hard Knocks
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1352
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTsxkgs.png" group-title="Esportes em inglês: lutas",Impact Plus | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=776
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTsxkgs.png" group-title="Esportes em inglês: lutas",Impact Plus | EUA 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=829
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTsxkgs.png" group-title="Esportes em inglês: lutas",Impact Plus | EUA 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=964
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aTsxkgs.png" group-title="Esportes em inglês: lutas",Impact Plus | EUA 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=779
-#EXTINF:-1 tvg-logo="https://i.imgur.com/y4kDz7H.png" group-title="Esportes em inglês: lutas",Impact Rebellion | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1770
-#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Impact Wrestling | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=509
-#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Impact Wrestling | EUA 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=679
-#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Impact Wrestling | EUA 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=828
-#EXTINF:-1 tvg-id="59b722526996084038c01e1b" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Impact Wrestling | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="DistroTV_MMA Junkie" tvg-logo="https://i.imgur.com/AKZVQCV.png" group-title="Esportes em inglês: lutas",MMA Junkie
-https://dai.google.com/linear/hls/event/Ojv7wZDbT4G7utyqbdcXUA/master.m3u8
-#EXTINF:-1 tvg-id="DistroTV_MMA Junkie" tvg-logo="https://i.imgur.com/AKZVQCV.png" group-title="Esportes em inglês: lutas",MMA Junkie
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Esportes em inglês: lutas",MMA TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=802
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Esportes em inglês: lutas",MMA TV | Rakuten
-https://alchimie-mmatv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-alchimie-mmatv-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Esportes em inglês: lutas",MMA TV | link 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=803
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Esportes em inglês: lutas",MMA TV | link 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=804
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60ecb878ebef9d002c4d0a11" tvg-logo="https://i.imgur.com/1bLycsn.png" group-title="Esportes em inglês: lutas",MMA TV | link 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1308
-
-#EXTINF:-1 tvg-id="5fac431fc1ffbc0007e6b6a7" tvg-logo="http://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="Esportes em inglês: lutas",Pro Wrestling | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="Esportes em inglês: lutas",PWTV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2529
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="Esportes em inglês: lutas",PWTV 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2540
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DRKYAV3.png" group-title="Esportes em inglês: lutas",PWTV 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2527
-
-
 ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ##########
 #EXTINF:-1 tvg-id="Africanews.cg" tvg-logo="https://i.imgur.com/boJAKGs.png" group-title="Notícias em francês",AfricaNews
 https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
@@ -1106,16 +756,7 @@ https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
 https://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://i.imgur.com/bp1Qp0d.png" group-title="Notícias em francês",LN24 em francês | Bélgica
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index_1.m3u8
-#EXTINF:-1 tvg-id="IRIB Press TV IR" tvg-logo="https://i.imgur.com/Qr14bSJ.png" group-title="Notícias em francês",Press TV | Irã
-https://live1.presstv.ir/live/presstvfr/index.m3u8
-#EXTINF:-1 tvg-id="RTFrance.ru" tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em francês",RT em francês 1 | full HD | Rússia
-https://rt-fra.gcdn.co/live/rtfrance/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="RTFrance.ru" tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em francês",RT em francês 2 | HD | Rússia
-https://rt-fra.gcdn.co/live/rtfrance/playlist_2500Kb.m3u8
-#EXTINF:-1 tvg-id="RTFrance.ru" tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em francês",RT em francês 3 | média | Rússia
-https://rt-fra.gcdn.co/live/rtfrance/playlist_1600Kb.m3u8
-#EXTINF:-1 tvg-id="RTFrance.ru" tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em francês",RT em francês 4 | baixa | Rússia
-https://rt-fra.gcdn.co/live/rtfrance/playlist_800Kb.m3u8
+
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/KWWszNH.png" group-title="Notícias em francês",TV5Monde 1
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/master.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/KWWszNH.jpg" group-title="Notícias em francês",TV5Monde 2
@@ -1128,188 +769,6 @@ https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
 
 
-############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ############## NOTÍCIAS em INGLÊS ##############
-#EXTINF:-1 tvg-logo="https://i.imgur.com/shdWWo2.png" group-title="Notícias em inglês",5 ABC | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=637
-#EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="Notícias em inglês",ABC News | Austrália
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-id="ABCNews.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="Notícias em inglês",ABC News 2 | Austrália
-https://c.mjh.nz/101002210220/
-
-#EXTINF:-1 tvg-id="AriseNews.uk" tvg-logo="https://i.imgur.com/vvO3Fes.png" group-title="Notícias em inglês",Arise News | Reino Unido
-http://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="Notícias em inglês",Austrália Channel
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-
-#EXTINF:-1 tvg-id="CBS Newsews.us" tvg-logo="http://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="Notícias em inglês",CBS News | EUA 
-https://CBS News-us.CBS Newsstream.CBS Newsews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
-
-#EXTINF:-1 tvg-id="62441d6ded1827000763dcda" tvg-logo="http://images.pluto.tv/channels/62441d6ded1827000763dcda/colorLogoPNG.png" group-title="Notícias em inglês",CBS News | Pluto TV Alemanha
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62441d6ded1827000763dcda/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6231ec93779a9d00079ba8e2" tvg-logo="http://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/colorLogoPNG.png" group-title="Notícias em inglês",CBS News | Pluto TV Argentina
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec93779a9d00079ba8e2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="62310f66d5888f0007534342" tvg-logo="http://images.pluto.tv/channels/62310f66d5888f0007534342/colorLogoPNG.png" group-title="Notícias em inglês",CBS News | Pluto TV Brasil
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62310f66d5888f0007534342/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6231ede1be5b460007f91bc1" tvg-logo="http://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png" group-title="Notícias em inglês",CBS News | Pluto TV Espanha
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ede1be5b460007f91bc1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5a6b92f6e22a617379789618" tvg-logo="http://images.pluto.tv/channels/5a6b92f6e22a617379789618/colorLogoPNG.png" group-title="Notícias em inglês",CBS News | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a6b92f6e22a617379789618/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="61e82af27027f9000753c6e4" tvg-logo="https://images.pluto.tv/channels/61e82af27027f9000753c6e4/colorLogoPNG.png" group-title="Notícias em inglês",CBS News | Pluto TV Dinamarca
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61e82af27027f9000753c6e4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="6231ec4b62cd1f0007093c7b" tvg-logo="http://images.pluto.tv/channels/6231ec4b62cd1f0007093c7b/colorLogoPNG.png" group-title="Notícias em inglês",CBS News | Pluto TV Itália
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231ec4b62cd1f0007093c7b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6231e909bc960f00075d8e7c" tvg-logo="https://images.pluto.tv/channels/6231e909bc960f00075d8e7c/colorLogoPNG.png" group-title="Notícias em inglês",CBS News | Pluto TV Noruega
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6231e909bc960f00075d8e7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="6231eb3865be650007f59595" tvg-logo="http://images.pluto.tv/channels/6231eb3865be650007f59595/colorLogoPNG.png" group-title="Notícias em inglês",CBS News | Pluto TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6231eb3865be650007f59595/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6231e9b7f6deff00074674f4" tvg-logo="https://images.pluto.tv/channels/6231e9b7f6deff00074674f4/colorLogoPNG.png" group-title="Notícias em inglês",CBS News | Pluto TV Suécia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6231e9b7f6deff00074674f4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-id="60f75919718aed0007250d7a" tvg-logo="http://images.pluto.tv/channels/60f75919718aed0007250d7a/colorLogoPNG.png" group-title="Notícias em inglês",CBS News Baltimore | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60f75919718aed0007250d7a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5dc481cda1d430000948a1b4" tvg-logo="http://images.pluto.tv/channels/5dc481cda1d430000948a1b4/colorLogoPNG.png" group-title="Notícias em inglês",CBS News Los Angeles | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5dc9b875e280c80009a8a44a" tvg-logo="http://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" group-title="Notícias em inglês",CBS News Los Angeles 2 | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc9b875e280c80009a8a44a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="60fb299b79498900070b29e0" tvg-logo="http://images.pluto.tv/channels/60fb299b79498900070b29e0/colorLogoPNG.png" group-title="Notícias em inglês",CBS News Miami | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60fb299b79498900070b29e0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5eb1b0bf2240d8000732a09c" tvg-logo="http://images.pluto.tv/channels/5eb1b0bf2240d8000732a09c/colorLogoPNG.png" group-title="Notícias em inglês",CBS News Minnesota | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5dc48170e280c80009a861ab" tvg-logo="http://images.pluto.tv/channels/5dc48170e280c80009a861ab/colorLogoPNG.png" group-title="Notícias em inglês",CBS News New York | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc48170e280c80009a861ab/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5dc9b8223687ff000936ed79" tvg-logo="http://images.pluto.tv/channels/5dc9b8223687ff000936ed79/colorLogoPNG.png" group-title="Notícias em inglês",CBS News New York 2 | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-id="5812afe1d0f0b8d55dde67fa" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | EUA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1
-#EXTINF:-1 tvg-id="5812afe1d0f0b8d55dde67fa" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | EUA 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=76
-#EXTINF:-1 tvg-id="5812afe1d0f0b8d55dde67fa" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | EUA 3
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=102
-#EXTINF:-1 tvg-id="5812afe1d0f0b8d55dde67fa" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | EUA 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=617
-#EXTINF:-1 tvg-id="5812afe1d0f0b8d55dde67fa" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | EUA 5
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=620
-
-#EXTINF:-1 tvg-id="USAJ3504714A" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | Local Now
-https://livestream.chdrstatic.com/e1bced8988f6a21da2206247c69538b6d4b12898ae8245c3a72f57e21384ccba/localnow/localnowlive/cheddardigital/index.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | Plex
-https://12231a625c714bb0ba99de904ad39daa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Cheddar/playlist.m3u8?ads.wurl_channel=581&ads.wurl_name=Cheddar&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=5f6b8e5900b0950040d0f2af&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 tvg-id="5812afe1d0f0b8d55dde67fa" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812afe1d0f0b8d55dde67fa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5ca1e02c08ee5378be82db47" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | Pluto TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e02c08ee5378be82db47/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5ca1e02c08ee5378be82db47" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | Roku
-https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="USAJ3504714A" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | Samsung
-https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="USAJ3504714A" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | Samsung | link 2
-https://bcf66772c67a40ec839611926b59b041.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Cheddar/playlist.m3u8
-#EXTINF:-1 tvg-id="USAJ3504714A" tvg-logo="https://i.imgur.com/nK0m3L9.png" group-title="Notícias em inglês",Cheddar | Web Live
-https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8
-
-#EXTINF:-1 tvg-id="5421f71da6af422839419cb3" tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="Notícias em inglês",CNN | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5421f71da6af422839419cb3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="CNN.us" tvg-logo="http://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="Notícias em inglês",CNN | Roku EUA
-http://linear-242.frequency.stream/242/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GBBA33000299M" tvg-logo="https://i.imgur.com/p2nEd5g.png" group-title="Notícias em inglês",CNN International
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GBBA33000299M" tvg-logo="https://i.imgur.com/p2nEd5g.png" group-title="Notícias em inglês",CNN International | LG Reino Unido
-https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ym558om.png" group-title="Notícias em inglês",Continental News Show
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1652
-#EXTINF:-1 tvg-id="CPACOttawa.ca" tvg-logo="https://i.imgur.com/blbvtTk.png" group-title="Notícias em inglês",CPAC | Canadá
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1654
-
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês",Euronews
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2571
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês",Euronews 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1368
-
-#EXTINF:-1 tvg-id="61de96114757070008d33cae" tvg-logo="https://images.pluto.tv/channels/61de96114757070008d33cae/colorLogoPNG.png" group-title="Notícias em inglês",Euronews | Pluto TV Dinamarca
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61de96114757070008d33cae/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="61de8e502c8e9400077e5de7" tvg-logo="https://images.pluto.tv/channels/61de8e502c8e9400077e5de7/colorLogoPNG.png" group-title="Notícias em inglês",Euronews | Pluto TV Noruega
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61de8e502c8e9400077e5de7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5ca1da6c593a5d78f0e7edce" tvg-logo="http://images.pluto.tv/channels/5ca1da6c593a5d78f0e7edce/colorLogoPNG.png" group-title="Notícias em inglês",Euronews | Pluto TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1da6c593a5d78f0e7edce/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="61de90a47365340007f77c27" tvg-logo="https://images.pluto.tv/channels/61de90a47365340007f77c27/colorLogoPNG.png" group-title="Notícias em inglês",Euronews | Pluto TV Suécia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61de90a47365340007f77c27/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d90f682a3002c348299" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês",Euronews | Reino Unido | 1
-https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d90f682a3002c348299" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês",Euronews | Reino Unido | 2
-https://685531619097460582835d479ff140bb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60089d90f682a3002c348299" tvg-logo="https://i.imgur.com/szYOy8S.jpg" group-title="Notícias em inglês",Euronews | Suécia
-https://rakuten-euronews-1-se.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Notícias em inglês",France 24 HD em inglês 1
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="Notícias em inglês",France 24 HD em inglês 2
-https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="France24English.fr" tvg-logo="https://i.imgur.com/Tj0KCYI.png" group-title="Notícias em inglês",France 24 SD em inglês
-http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61f9a80643ec158c3a3eb296" tvg-logo="https://i.imgur.com/FeY6aUe.png" group-title="Notícias em inglês",Fox 23 Tulsa | EUA
-https://d1hdqxv58eu2nj.cloudfront.net/v1/manifest/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10100_0d4036c1-d9dd-46b1-84f7-506ba49b7b28_LE/89305481-8a86-42f2-8921-4a38895c2b19/0.m3u8
-#EXTINF:-1 tvg-id="FoxNewsNow.us" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/97/USBA300024TN20200730102745.png" group-title="Notícias em inglês",FOX News NOW | EUA 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-fox-newsnow-samsung/playlist.m3u8
-#EXTINF:-1 tvg-id="USBA300032J7" tvg-logo="https://i.imgur.com/6Hb2XXs.jpg" group-title="Notícias em inglês",Fox Soul
-http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61e9af453508a50f84213dd6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1c24a0e4-ecc3-4e51-8eb6-f5c8e2ed1ff9/Untitled.png" group-title="Notícias em inglês",i24 News Updates | Israel
-https://d3kl0e87lk5c6c.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FuelTV-Plex/baeacf0d-fca2-4578-bc6b-083e78622b19.m3u8?adMethod=3&sessionId=i24Plex&ads.plex_token=y_HMAMzw1oNcdLetH1FS&ads.channel_id=61e9af453508a50f84213dd6&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.app_bundle=com.plexapp.android&ads.app_name=plex&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.app_domain=app.plex.tv&ads.channel_name=i24News&ads.gdpr=0&ads.us_privacy=1---&ads.consent=0
-#EXTINF:-1 tvg-id="5df97894467dfa00091c873c" tvg-logo="http://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="Notícias em inglês",NBC News NOW | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5fff49cfb5cd4f0007c2b0dc" tvg-logo="https://images.pluto.tv/channels/5fff49cfb5cd4f0007c2b0dc/colorLogoPNG.png" group-title="Notícias em inglês",News 12 New York | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fff49cfb5cd4f0007c2b0dclivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5268abcd0ce20a8472000114" tvg-logo="http://images.pluto.tv/channels/5268abcd0ce20a8472000114/colorLogoPNG.png" group-title="Notícias em inglês",News | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5459795fc9f133a519bc0bef" tvg-logo="http://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png" group-title="Notícias em inglês",Newsy | EUA
-http://linear-78.frequency.stream/78/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="5459795fc9f133a519bc0bef" tvg-logo="http://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png" group-title="Notícias em inglês",Newsy | link 2
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
-#EXTINF:-1 tvg-id="5459795fc9f133a519bc0bef" tvg-logo="http://images.pluto.tv/channels/5459795fc9f133a519bc0bef/colorLogoPNG.png" group-title="Notícias em inglês",Newsy | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5459795fc9f133a519bc0bef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g49BCSF.png" group-title="Notícias em inglês",Ohio 24/7 Now WKRC | EUA
-http://linear-39.frequency.stream/39/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g49BCSF.png" group-title="Notícias em inglês",Ohio 24/7 Now | EUA
-http://linear-146.frequency.stream/146/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g49BCSF.png" group-title="Notícias em inglês",Ohio 24/7 Now 3
-http://linear-147.frequency.stream/147/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g49BCSF.png" group-title="Notícias em inglês",Ohio 24/7 Now 4
-http://linear-148.frequency.stream/148/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IRIB Press TV IR" tvg-logo="https://i.imgur.com/Qr14bSJ.png" group-title="Notícias em inglês",Press TV | Irã
-https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
-#EXTINF:-1 tvg-id="RepublicTV.in" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/62/INBA4900020A5_20210330T012116.png" group-title="Notícias em inglês",Republic TV | Índia
-https://republicworld.amagi.tv/hls/amagi_hls_data_samsungin-republictv-samsungindia/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="FRBA3300024L2" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png" group-title="Notícias em inglês",Reuters Now
-https://ajo.prod.reuters.tv/rest/v2/playlist/assets/58197,464695,464688,464478,57445,58156,464697,127706,464687,58089,464661,58117,464511,127694,464474,58090,464715,127785,464752,127680,464740,58118,464712,127800,464733,127800,464701,58061,464541,127710,464507,58048,464622,127681,464625,58147,464452,58061,464617,127711,464449,58018,464479,58058,464539,127679,464466,318501/master.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/reuters_reutersnow_1.png" group-title="Notícias em inglês",Reuters TV
-https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em inglês",RT America 1 | full HD | EUA
-https://rt-usa.gcdn.co/live/rtusa/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em inglês",RT America 2 | HD | EUA
-https://rt-usa.gcdn.co/live/rtusa/playlist_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em inglês",RT America 3 | definição média | EUA
-https://rt-usa.gcdn.co/live/rtusa/playlist_1600Kb.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em inglês",RT UK 1 | full HD | Inglaterra
-https://rt-uk.gcdn.co/live/rtuk/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em inglês",RT UK 2 | HD | Inglaterra
-https://rt-uk.gcdn.co/live/rtuk/playlist_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5oiqFfl.png" group-title="Notícias em inglês",RT UK 3 | definição média | Inglaterra
-https://rt-uk.gcdn.co/live/rtuk/playlist_1600Kb.m3u8
-
-#EXTINF:-1 tvg-id="5151" tvg-logo="https://i.imgur.com/1XiQezD.png" group-title="Notícias em inglês",Sky News | Austrália
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
-#EXTINF:-1 tvg-id="55b285cd2665de274553d66f" tvg-logo="http://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="Notícias em inglês",Sky News | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-#EXTINF:-1 tvg-id="646546f35db8ada4c8edd7e5-64bf5ed5fa25ad1c59ae7472" tvg-logo="https://i.imgur.com/wU1DXR5.png" group-title="Notícias em inglês",The Washington Post Television | Plex TV
-https://epg-ipv4.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-64bf5ed5fa25ad1c59ae7472.m3u8?X-Plex-Product=Plex+Mediaverse&X-Plex-Token=-93bbPLExpGYv3yVqRtw&includeAllStreams=1&redirectedFromV6=1
-#EXTINF:-1 tvg-id="5331d5fb753499095a00045a" tvg-logo="http://images.pluto.tv/channels/5331d5fb753499095a00045a/colorLogoPNG.png" group-title="Notícias em inglês",TYT | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5331d5fb753499095a00045a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-
-
 
 
 ###### Novelas e séries em italiano ###### Novelas e séries em italiano ###### Novelas e séries em italiano ###### Novelas e séries em italiano ###### Novelas e séries em italiano ########
@@ -1319,6 +778,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5331d5fb7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802d37ee238e0007c94e64/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="60b9dc99521a1400079bdfba" tvg-logo="https://images.pluto.tv/channels/60b9dc99521a1400079bdfba/colorLogoPNG.png" group-title="Novelas e séries em italiano",Consulenze Illegali | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9dc99521a1400079bdfba/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1 tvg-id="ITBB2000004QF" tvg-logo="https://i.imgur.com/fDGmY7Q.png" group-title="Novelas e séries em italiano",Donna TV | Samsung Itália
 https://promosrl-donnatv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="60a2837f8154ab0007c4dcdf" tvg-logo="https://images.pluto.tv/channels/60a2837f8154ab0007c4dcdf/colorLogoPNG.png" group-title="Novelas e séries em italiano",Le sorelle McLeod | Pluto TV Itália
@@ -1329,60 +789,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802c209
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9ff2722bfa400072676ef/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="ITBA14000026G" tvg-logo="https://i.imgur.com/770kcRF.png" group-title="Novelas e séries em italiano",Televisa Telenovelas | Itália
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rOl7HfS.png" group-title="Novelas e séries em italiano",Yamato Animation | legenda em italiano
 https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
-###### Pets em inglês ####### Pets em inglês ####### Pets em inglês ####### Pets em inglês ####### Pets em inglês ####### Pets em inglês ####
-#EXTINF:-1 tvg-id="60e453641239a700071f53a1" tvg-logo="http://images.pluto.tv/channels/60e453641239a700071f53a1/colorLogoPNG.png" group-title="Pets em inglês",Dog Whisperer | Pluto TV Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e453641239a700071f53a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5b329e0a7b9d8872aeb49ceb" tvg-logo="http://images.pluto.tv/channels/5b329e0a7b9d8872aeb49ceb/colorLogoPNG.png" group-title="Pets em inglês",Dogs 24/7 | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b329e0a7b9d8872aeb49ceb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="dtv_EPGFido TV" tvg-logo="https://i.imgur.com/1hWsvsw.png" group-title="Pets em inglês",Fido TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=841
-#EXTINF:-1 tvg-id="KlowdTV_EPGFido TV" tvg-logo="https://i.imgur.com/1hWsvsw.png" group-title="Pets em inglês",Fido TV | Klowd
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/fido_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGFido TV" tvg-logo="https://i.imgur.com/1hWsvsw.png" group-title="Pets em inglês",Fido TV | Local Now
-https://1123112950.rsc.cdn77.org/HLS/FIDO_SCTE.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGFido TV" tvg-logo="https://i.imgur.com/1hWsvsw.png" group-title="Pets em inglês",Fido TV | link 3
-https://dai.google.com/linear/hls/event/qd8D8TtbQ-2fFw5-1sZiWQ/master.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGFido TV" tvg-logo="https://i.imgur.com/1hWsvsw.png" group-title="Pets em inglês",Fido TV | link 4
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2002
-#EXTINF:-1 tvg-id="5bb1ad55268cae539bcedb08" tvg-logo="http://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Pets em inglês",The Pet Collective
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=773
-#EXTINF:-1 tvg-id="5bb1ad55268cae539bcedb08" tvg-logo="http://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Pets em inglês",The Pet Collective 2
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=994
-#EXTINF:-1 tvg-id="5bb1ad55268cae539bcedb08" tvg-logo="http://images.pluto.tv/channels/5bb1ad55268cae539bcedb08/colorLogoPNG.png" group-title="Pets em inglês",The Pet Collective | EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1ad55268cae539bcedb08/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5ad8d819e738977e2c31096a" tvg-logo="https://images.pluto.tv/channels/5ad8d819e738977e2c31096a/colorLogoPNG.png" group-title="Pets em inglês",The Pet Collective | Reino Unido
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d819e738977e2c31096a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5ad8d819e738977e2c31096a" tvg-logo="https://images.pluto.tv/channels/5ad8d819e738977e2c31096a/colorLogoPNG.png" group-title="Pets em inglês",The Pet Collective | Roku
-http://linear-174.frequency.stream/174/hls/master/playlist.m3u8
 
 
-
-
-
-######### reality shows em francês ######### reality shows em francês ######### reality shows em francês ######### reality shows em francês ######### reality shows em francês ######### reality shows em francês ######### reality shows em francês #############
-
-#EXTINF:-1 tvg-id="5f8eb71a26ed8300076433f9" tvg-logo="http://images.pluto.tv/channels/5f8eb71a26ed8300076433f9/colorLogoPNG.png" group-title="Reality shows em francês",MADE TV | França
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb71a26ed8300076433f9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6192416c06d23b0007379766" tvg-logo="https://images.pluto.tv/channels/6192416c06d23b0007379766/colorLogoPNG.png" group-title="Reality shows em francês",MTV Are You The One? | Pluto TV França
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6192416c06d23b0007379766/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f8eb66537867f0007146953" tvg-logo="https://i.imgur.com/Ww4ngLT.png" group-title="Reality shows em francês",MTV Catfish TV | França
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb66537867f0007146953/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5ff5ed0bb61f1200072ca4cd" tvg-logo="https://i.imgur.com/Ww4ngLT.png" group-title="Reality shows em francês",MTV Catfish+ | França
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff5ed0bb61f1200072ca4cd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f92b56a367e170007cd43f4" tvg-logo="http://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="Reality shows em francês",MTV Classics | França
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b56a367e170007cd43f4/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5ff5ec5500d4c70007341c7c" tvg-logo="http://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" group-title="Reality shows em francês",MTV Classics+ | França
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff5ec5500d4c70007341c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="602cf8963b4bc90007454541" tvg-logo="http://images.pluto.tv/channels/602cf8963b4bc90007454541/colorLogoPNG.png" group-title="Reality shows em francês",MTV Cribs | Pluto TV França
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/602cf8963b4bc90007454541/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="6092544e7639460007d4835e" tvg-logo="http://images.pluto.tv/channels/6092544e7639460007d4835e/colorLogoPNG.png" group-title="Reality shows em francês",MTV Dating | Pluto TV França
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6092544e7639460007d4835e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5f8ed9461b35690007a0bc3a" tvg-logo="http://images.pluto.tv/channels/5f8ed9461b35690007a0bc3a/colorLogoPNG.png" group-title="Reality shows em francês",Paranormal | Pluto TV França
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed9461b35690007a0bc3a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="609256cf5dfd4c0007e577a9" tvg-logo="http://images.pluto.tv/channels/609256cf5dfd4c0007e577a9/colorLogoPNG.png" group-title="Reality shows em francês",Rich | Pluto TV França
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609256cf5dfd4c0007e577a9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 
 
@@ -1395,6 +806,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6176f39e7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c571faeb3e2738ae27933/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eynyChI.png" group-title="Reality shows em inglês: crimes e julgamentos",America's Court
 http://linear-219.frequency.stream/219/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="5c37d6712de254456f7ec340" tvg-logo="http://images.pluto.tv/channels/5c37d6712de254456f7ec340/colorLogoPNG.png" group-title="Reality shows em inglês: crimes e julgamentos",Cold Case Files | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c37d6712de254456f7ec340/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5d4ae94ef1a1bbb350ca41bb" tvg-logo="https://images.pluto.tv/channels/5d4ae94ef1a1bbb350ca41bb/colorLogoPNG.png" group-title="Reality shows em inglês: crimes e julgamentos",Conspiracy | Pluto TV Reino Unido
@@ -1405,6 +817,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="6036e6e7ac69c400072afca2" tvg-logo="http://images.pluto.tv/channels/6036e6e7ac69c400072afca2/colorLogoPNG.png" group-title="Reality shows em inglês: crimes e julgamentos",Courtroom | Pluto TV EUA 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6036e6e7ac69c400072afca2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1 tvg-id="5d767790d0438aceb41d03ae" tvg-logo="https://images.pluto.tv/channels/5d767790d0438aceb41d03ae/colorLogoPNG.png" group-title="Reality shows em inglês: crimes e julgamentos",Crime | Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d767790d0438aceb41d03ae/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="6000a5a9e767980007b497ca" tvg-logo="https://images.pluto.tv/channels/6000a5a9e767980007b497ca/colorLogoPNG.png" group-title="Reality shows em inglês: crimes e julgamentos",Crime 360 | EUA
@@ -1419,6 +832,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61814659533163000748aa
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb6f6f9a461406ffe4022cf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="USBB3200017MY" tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Reality shows em inglês: crimes e julgamentos",FilmRise Forensic Files 24/7 | EUA
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XuWEujn.png" group-title="Reality shows em inglês: crimes e julgamentos",FilmRise Mysteries 24/7 | EUA
 http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="6181241c1a35d50007874c27" tvg-logo="http://images.pluto.tv/channels/6181241c1a35d50007874c27/colorLogoPNG.png" group-title="Reality shows em inglês: crimes e julgamentos",Forensic Files | Pluto TV Dinamarca
@@ -1431,6 +845,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f62dc3a7
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e21b213ef6b0007d8c17a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60e452730e76f20007598de8" tvg-logo="https://images.pluto.tv/channels/60e452730e76f20007598de8/colorLogoPNG.png" group-title="Reality shows em inglês: crimes e julgamentos",Homicide Hunter | Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60e452730e76f20007598de8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f5132da62fe160040f26b5b" tvg-logo="https://i.imgur.com/N5eKnkk.png" group-title="Reality shows em inglês: crimes e julgamentos",Judge Faith
 https://35f8d561e25c470b974ab6f6b3df22cc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_JudgeFaith/playlist.m3u8?ads.wurl_channel=536&ads.wurl_name=JudgeFaith&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=vB1fQVteisRvSpyJtSgH&ads.plex_id=5f5132da62fe160040f26b5b&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
 #EXTINF:-1 tvg-id="6283d51144ad8f0007fa382d" tvg-logo="https://images.pluto.tv/channels/6283d51144ad8f0007fa382d/colorLogoPNG.png" group-title="Reality shows em inglês: crimes e julgamentos",Judge Judy | Pluto TV EUA
@@ -1448,15 +863,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1011
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1016
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc79d" tvg-logo="https://i.imgur.com/3LBntt0.png" group-title="Reality shows em inglês: crimes e julgamentos",Law & Crime 4
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1074
-#EXTINF:-1 tvg-id="5d2c571faeb3e2738ae27933" tvg-logo="https://images.pluto.tv/channels/5d2c571faeb3e2738ae27933/colorLogoPNG.png" group-title="Reality shows em inglês: crimes e julgamentos",My5 Crime | Reino Unido
+#EXTINF:-1 tvg-id="5d2c571faeb3e2738ae27933" tvg-logo="https://images.pluto.tv/channels/5d2c571faeb3e2738ae27933/colorLogoPNG.png" group-title="Reality shows em inglês: crimes e julgamentos",My5 Crime | UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d2c571faeb3e2738ae27933/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/615af74dfe3d8e0007524511/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5e79c2f280389000077242a8" tvg-logo="https://images.pluto.tv/channels/5e79c2f280389000077242a8/colorLogoPNG.png" group-title="Reality shows em inglês: crimes e julgamentos",Police Women | Reino Unido
+#EXTINF:-1 tvg-id="5e79c2f280389000077242a8" tvg-logo="https://images.pluto.tv/channels/5e79c2f280389000077242a8/colorLogoPNG.png" group-title="Reality shows em inglês: crimes e julgamentos",Police Women | UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e79c2f280389000077242a8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5f21e831e9fe730007706acb" tvg-logo="http://images.pluto.tv/channels/5f21e831e9fe730007706acb/colorLogoPNG.png" group-title="Reality shows em inglês: crimes e julgamentos",Rescue 911: Emergência 911 | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f21e831e9fe730007706acb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5e9ed47c26ebb000074af566" tvg-logo="https://images.pluto.tv/channels/5e9ed47c26ebb000074af566/colorLogoPNG.png" group-title="Reality shows em inglês: crimes e julgamentos",Sensing Murder | Reino Unido
+#EXTINF:-1 tvg-id="5e9ed47c26ebb000074af566" tvg-logo="https://images.pluto.tv/channels/5e9ed47c26ebb000074af566/colorLogoPNG.png" group-title="Reality shows em inglês: crimes e julgamentos",Sensing Murder | UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e9ed47c26ebb000074af566/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3jAZF1E.png" group-title="Reality shows em inglês: crimes e julgamentos",Supreme Justice 
 http://linear-222.frequency.stream/222/hls/master/playlist.m3u8
@@ -1470,6 +885,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e393d5c6
 http://linear-90.frequency.stream/90/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BioWqw8.png" group-title="Reality shows em inglês: crimes e julgamentos",The Verdict With Judge Hatchett 2
 http://linear-223.frequency.stream/223/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-id="5812be1c249444e05d09cc50" tvg-logo="http://images.pluto.tv/channels/5812be1c249444e05d09cc50/colorLogoPNG.png" group-title="Reality shows em inglês: crimes e julgamentos",True Crime | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812be1c249444e05d09cc50/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-61ae679103baf19077bbf933" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9f5bb066-e3be-497a-8efd-b6b1cccdefcf/true_crime_now_logo.png" group-title="Reality shows em inglês: crimes e julgamentos",True Crime Now
@@ -1797,16 +1213,8 @@ https://ov.ottera.tv/live/master.m3u8?channel=mcom_gv_us
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1026
 #EXTINF:-1 tvg-id="5f1efad04320070007dbb60b" tvg-logo="https://images.pluto.tv/channels/5f1efad04320070007dbb60b/colorLogoPNG.png" group-title="Variedades em inglês",The Grio | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1efad04320070007dbb60b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="TVBRICSChinese.ru" tvg-logo="https://i.imgur.com/XxkYhC0.png" group-title="Variedades em inglês",TV BRICS | legenda em inglês
-https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBRICSChinese.ru" tvg-logo="https://i.imgur.com/XxkYhC0.png" group-title="Variedades em inglês",TV BRICS | legenda em inglês 2
-https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/heZgbmp.png" group-title="Variedades em inglês",TV Grace | inglês e espanhol
-https://streamyes.alsolnet.com/tvgracia_02/live/playlist.m3u8
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" tvg-logo="https://i.imgur.com/gs2ojmv.png" group-title="Variedades em inglês",USA Today | Plex
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=vB1fQVteisRvSpyJtSgH&channelId=60df3e18541143002f3b8607
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qjcUn49.png" group-title="Variedades em inglês",VoxAfrica em inglês
-https://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
+
+
 
 
 
@@ -1834,6 +1242,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa8a57
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2574
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789" tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Euronews em italiano | link 2
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 tvg-id="61b86ea479a4390007c6d5fc" tvg-logo="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Euronews | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="608014d19a26320007c92ab6" tvg-logo="https://images.pluto.tv/channels/608014d19a26320007c92ab6/colorLogoPNG.png" group-title="Variedades e notícias em italiano",FailArmy | Pluto TV Itália
@@ -1842,6 +1251,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608014d19
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c88130ab4a9800074e5f87/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="FoodNetworkItalia.us" tvg-logo="https://i.imgur.com/3FtKnsF.png" group-title="Variedades e notícias em italiano",Food Network | Itália 
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
+
 #EXTINF:-1 tvg-id="60b9dbea1f19550007dd0dfa" tvg-logo="https://images.pluto.tv/channels/60b9dbea1f19550007dd0dfa/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Fuel TV | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9dbea1f19550007dd0dfa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="61e9119366401100074dd3fd" tvg-logo="https://images.pluto.tv/channels/61e9119366401100074dd3fd/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Got Game | Pluto TV Itália
@@ -1850,18 +1260,21 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61e911936
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RN84VgD.png" group-title="Variedades e notícias em italiano",Italian Fishing TV | Itália
 https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="60802b37709d6b0007b0c549" tvg-logo="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Natura | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="608017cbe375e400070cc981" tvg-logo="https://images.pluto.tv/channels/608017cbe375e400070cc981/colorLogoPNG.png" group-title="Variedades e notícias em italiano",People ara Awesome | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608017cbe375e400070cc981/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://i.imgur.com/jm1Rwon.png" group-title="Variedades e notícias em italiano",Rai 3 | Itália 
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="609404b0a8ec810007d8de9d" tvg-logo="https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Scherzi e risate | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609404b0a8ec810007d8de9d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="608030eff4b6f70007e1684c" tvg-logo="https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG.png" group-title="Variedades e notícias em italiano",Sport | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="teleromagna" tvg-logo="https://i.imgur.com/T2cK6aE.png" group-title="Variedades e notícias em italiano",Teleromagna | Itália
 http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="60801317a0ccef00072aaf75" tvg-logo="https://images.pluto.tv/channels/60801317a0ccef00072aaf75/colorLogoPNG.png" group-title="Variedades e notícias em italiano",The Pet Collective | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="TRMh24.it" tvg-logo="https://i.imgur.com/WtUFMnB.png" group-title="Variedades e notícias em italiano",TR24 | Itália
