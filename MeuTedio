@@ -17,22 +17,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe
 #EXTINF:-1 tvg-id="5fb5836fe745b600070fc743" tvg-logo="http://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Casa e decoração em inglês",BBC Home & Garden | Pluto TV EUA | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5836fe745b600070fc743/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 tvg-id="5ef0fbed39ff730007383a69" tvg-logo="https://images.pluto.tv/channels/5ef0fbed39ff730007383a69/colorLogoPNG.png" group-title="Casa e decoração em inglês",Dabl | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ef0fbed39ff730007383a69/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5ef0fbed39ff730007383a69" tvg-logo="https://images.pluto.tv/channels/5ef0fbed39ff730007383a69/colorLogoPNG.png" group-title="Casa e decoração em inglês",Dabl | link 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ef0fbed39ff730007383a69/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
 
 #EXTINF:-1 tvg-id="6022bd17849c620007f43ae0" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="Casa e decoração em inglês",Home | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6022bd17849c620007f43ae0/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="6022bd17849c620007f43ae0" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="Casa e decoração em inglês",Home | EUA | link 2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6022bd17849c620007f43ae0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5db04c9eedc89300090d2884" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="Casa e decoração em inglês",Home | Pluto TV Reino Unido 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04c9eedc89300090d2884/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5db04c9eedc89300090d2884" tvg-logo="https://images.pluto.tv/channels/6022bd17849c620007f43ae0/colorLogoPNG.png" group-title="Casa e decoração em inglês",Home | Reino Unido | link 2 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db04c9eedc89300090d2884/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-#EXTINF:-1 tvg-id="5dc1cb279c91420009db261d" tvg-logo="https://images.pluto.tv/channels/5dc1cb279c91420009db261d/colorLogoPNG.png" group-title="Casa e decoração em inglês",Home Made Nation | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc1cb279c91420009db261d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="5c5c2e9d8002db3c3e0b1c72" tvg-logo="https://images.pluto.tv/channels/5c5c2e9d8002db3c3e0b1c72/colorLogoPNG.png" group-title="Casa e decoração em inglês",Homes Under Hammer | Pluto TV UK
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8002db3c3e0b1c72/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -44,14 +33,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2e9d8
 https://26487f8be0614420a64b6f5964563a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThisOldHouse/playlist.m3u8
 #EXTINF:-1 tvg-id="5d51e791b7dba3b2ae990ab2" tvg-logo="http://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="Casa e decoração em inglês",This Old House | Pluto TV EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="5d51e791b7dba3b2ae990ab2" tvg-logo="http://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="Casa e decoração em inglês",This Old House | EUA | link 2
+#EXTINF:-1 tvg-id="5d51e791b7dba3b2ae990ab2" tvg-logo="http://images.pluto.tv/channels/5d51e791b7dba3b2ae990ab2/colorLogoPNG.png" group-title="Casa e decoração em inglês",This Old House | EUA
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 tvg-id="USAJ3400020KC" tvg-logo="http://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" group-title="Casa e decoração em inglês",Tiny House Nation | Samsung EUA
 https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8
-#EXTINF:-1 tvg-id="601a0342dcf4370007566891" tvg-logo="http://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" group-title="Casa e decoração em inglês",Tiny House Nation | Pluto TV EUA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/601a0342dcf4370007566891/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
 
 ########################################### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ############################
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae875" tvg-logo="https://i.imgur.com/Sa39Z1b.png" group-title="Celebridades e cultura pop em inglês",Axs TV Now | EUA
@@ -139,12 +125,7 @@ https://dba2f9e98eb44a478946116c5e90e55b.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 
-
-
-
 ####### CINEMA EM inglês ############################# ####### CINEMA EM inglês ############################# ####### CINEMA EM inglês ############################# ####### CINEMA EM inglês #############################
-
-
 
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="Cinema em inglês",Sony Pix HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58207
@@ -205,10 +186,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=70
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=151
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d61b898490041b49360" tvg-logo="https://i.imgur.com/ejyvmON.png" group-title="Cinema em inglês",Electric Now | EUA 5
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2184
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d61b898490041b49360" tvg-logo="https://i.imgur.com/ejyvmON.png" group-title="Cinema em inglês",Electric Now | EUA 7
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=166
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-5f170d61b898490041b49360" tvg-logo="https://i.imgur.com/ejyvmON.png" group-title="Cinema em inglês",Electric Now | EUA 8
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=202
+
 
 #EXTINF:-1 tvg-id="5dc3fc6b9133f500099c7d98" tvg-logo="https://images.pluto.tv/channels/5dc3fc6b9133f500099c7d98/colorLogoPNG.png" group-title="Cinema em inglês",Family | Pluto TV Reino Unido
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc3fc6b9133f500099c7d98/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -715,45 +693,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a7c62ee
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60801976f92a750007a0699c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="61925f874b1ec000075e700a" tvg-logo="https://images.pluto.tv/channels/61925f874b1ec000075e700a/colorLogoPNG.png" group-title="Reality shows em italiano",Reality | Pluto TV Itália
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61925f874b1ec000075e700a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-
-
-
-######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês ######### variedades em francês 
-
-#EXTINF:-1 tvg-id="Alsace20.fr" tvg-logo="https://i.imgur.com/S8TuhyF.png" group-title="Variedades em francês",Alsace 20 | França
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-id="5f92b5ba040eaa0007074d0a" tvg-logo="https://images.pluto.tv/channels/5f92b5ba040eaa0007074d0a/colorLogoPNG.png" group-title="Variedades em francês",BET Classics | Pluto TV França
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f92b5ba040eaa0007074d0a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-logo="https://i.imgur.com/TZVSJlX.png" group-title="Variedades em francês",BFM Grand Lille | França
-https://str81.creacast.com/grandlilletv/high/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BFMGrandLittoral.fr" tvg-logo="https://i.imgur.com/JStDKsv.png" group-title="Variedades em francês",BFM Grand Littoral | França
-https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" group-title="Variedades em francês",BX1 | Bélgica | 1
-https://59959724487e3.streamlock.net/stream/live/chunklist.m3u8
-#EXTINF:-1 tvg-id="BX1.be" tvg-logo="https://bx1.be/wp-content/themes/BX1-2017/img/logo.png" group-title="Variedades em francês",BX1 | Bélgica | 2
-https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CanalAlphaJU.ch" tvg-logo="https://i.imgur.com/ghyoivT.png" group-title="Variedades em francês",Canal Alpha | Suiça
-https://edge4.vedge.infomaniak.com/livecast/ik:canalalpha/chunklist_w1090298739_b2500000.m3u8
-#EXTINF:-1 tvg-id="CanalAlphaNE.ch" tvg-logo="https://i.imgur.com/ghyoivT.png" group-title="Variedades em francês",Canal Alpha | Suiça 2
-https://edge4.vedge.infomaniak.com/livecast/ik:canalalpha/chunklist_w1090298739_b2500000.m3u8
-#EXTINF:-1 tvg-id="CanalZoom.be" tvg-logo="https://i2.wp.com/www.canalzoom.be/wp-content/uploads/cropped-canalzoom_logo_couleur_V2.png" group-title="Variedades em francês",Canal Zoom | Bélgica
-http://streamer.canalc.be:1935/canalzoom/smil:SMIL-canalzoom-multi/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="CGTNFrench.cn" tvg-logo="https://i.imgur.com/y5uCaes.png" group-title="Variedades em francês",CGTN em francês | China
-https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 tvg-id="5f8ed48146ba9e00078424b6" tvg-logo="http://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png" group-title="Variedades em francês",Cuisine | Pluto TV França 
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed48146ba9e00078424b6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
-#EXTINF:-1 tvg-id="FRBA3300026BR" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/82/FRBA3300026BR_20210414T024616.png" group-title="Variedades em francês",Famille | Rakuten TV | França
-https://43e98e0eaa9b4118b1b79e62f98cff7d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenFamily/playlist.m3u8
-#EXTINF:-1 tvg-id="IciRadioCanadaTeleMontreal.ca" tvg-logo="https://i.imgur.com/5SKffsW.png" group-title="Variedades em francês",ICI Télévision | Canadá | francês e espanhol
-https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
-
-#EXTINF:-1 tvg-id="Notele.be" tvg-logo="https://www.notele.be/webfiles/layout/logo.png" group-title="Variedades em francês",Notélé | Bélgica
-https://streaming01.divercom.be/notele_live/_definst_/direct.stream/chunklist_w1567084165.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qjcUn49.png" group-title="Variedades em francês",VoxAfrica | francês e inglês
-https://1927901613.rsc.cdn77.org/1927901613/tracks-v1a1/mono.m3u8
 
 
 
