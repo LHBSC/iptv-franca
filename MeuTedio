@@ -39,7 +39,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51e791b
 #EXTINF:-1 tvg-id="USAJ3400020KC" tvg-logo="http://images.pluto.tv/channels/601a0342dcf4370007566891/colorLogoPNG.png" group-title="Casa e decoração em inglês",Tiny House Nation | Samsung EUA
 https://4f2d358e390a41cd8e87e74a954d9624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_TinyHouseNation/playlist.m3u8
 
+
 ########################################### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ###### Celebridades e cultura pop em inglês ############################
+
+
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae875" tvg-logo="https://i.imgur.com/Sa39Z1b.png" group-title="Celebridades e cultura pop em inglês",Axs TV Now | EUA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=780
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae875" tvg-logo="https://i.imgur.com/Sa39Z1b.png" group-title="Celebridades e cultura pop em inglês",Axs TV Now | música
@@ -91,8 +94,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://younghollywood-rakuten.amagi.tv/playlist.m3u8
 
 
-
 ##### CINEMA EM francês ############################# ####### CINEMA EM francês ############################# ####### CINEMA EM francês ############################# ####### CINEMA EM francês #############################
+
+
 #EXTINF:-1 tvg-id="5f8ed1ff5c39700007e2204a" tvg-logo="http://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="Cinema em francês",Action | Pluto TV França
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed1ff5c39700007e2204a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="5ff5eb810e2996000768c0e2" tvg-logo="http://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG.png" group-title="Cinema em francês",Ciné | Pluto TV França
@@ -130,6 +134,12 @@ https://dba2f9e98eb44a478946116c5e90e55b.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20SD.png" group-title="Cinema em inglês",Sony Pix HD
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/58207
 
+#EXTINF:-1 tvg-logo="https://ionplustv.com/og-image.jpg" group-title="Cinema em inglês",ION Plus TCL |EUA
+https://ion-ion-plus-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iontelevision.com/og-image.jpg" group-title="Cinema em inglês",ION TCL |EUA
+https://scripps-ion-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ionmystery.com/og-image.png" group-title="Cinema em inglês",ION MYSTERY TCL |EUA
+https://scripps-ionmystery-2-us.tcltvplus.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3SuqJaK.png" group-title="Cinema em inglês",24 Hour Free Movies 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1356
@@ -273,6 +283,9 @@ https://sofytv-samsungit.amagi.tv/playlist.m3u8
 
 
 #### Documentários em francês ######### ############ ####### ######## ######## ######## ######## ######## Documentários em francês ############ Documentários em francês ########### ############ Documentários em francês ##################
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários em francês", BelAir TV MUSEUM | França
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtvfr-tcl/playlist.m3u8
 
 #EXTINF:-1 tvg-id="60925a44f0350600075a1fdc" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" group-title="Documentários em francês",Animaux | Pluto TV França
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60925a44f0350600075a1fdc/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -497,6 +510,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-xplore-samsungus/playlist.m3
 
 
 ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ############## NOTÍCIAS em francês ##########
+
+
 #EXTINF:-1 tvg-id="Africanews.cg" tvg-logo="https://i.imgur.com/boJAKGs.png" group-title="Notícias em francês",AfricaNews
 https://rakuten-africanews-2-lu.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Africanews.cg" tvg-logo="https://i.imgur.com/boJAKGs.png" group-title="Notícias em francês",AfricaNews | francês e inglês
@@ -697,6 +712,23 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61925f874
 
 
 ######### variedades em inglês ############# ######### variedades em inglês ############# ######### variedades em inglês ############# ######### variedades em inglês #############
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://strongmancl.com/wp-content/uploads/2019/08/SCL-logo.png" group-title="Variedades em inglês",STRONGMAN CHAMPIONS LEAGUE | EUA
+https://rightsboosterltd-scl-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://strongmancl.com/wp-content/uploads/2019/08/SCL-logo.png" group-title="Variedades em inglês",STRONGMAN CHAMPIONS LEAGUE | AU
+https://rightsboosterltd-scl-1-au.tcl.wurl.tv/playlist.m3u8
+
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-popcornflix-tcl/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davincius-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/6141f80cde29e7712d989d84/78b90831-4a13-49f1-9eca-2e4055b1213d/Channel_Logo_Thumbnail.png" group-title="Variedades em inglês",AIR AND SPACE CHANNEL | CA
+https://wingspan-airandspace-1-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Popcornflixlogo21.png" group-title="Variedades em inglês",POPCORN FLIX | AU
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-popcornflix-tcl/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="Variedades em inglês",Animal Planet | EUA - NL
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/73651
